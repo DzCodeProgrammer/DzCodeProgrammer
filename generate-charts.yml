@@ -1,0 +1,44 @@
+name: generate-charts
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # run daily at 01:00 UTC (ubah sesuai kebutuhan)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install deps
+        run: |
+          cd .github/profile-scripts || mkdir -p .github/profile-scripts
+          # no external deps required; using built-in node https
+
+      - name: Run chart generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QT_API: 'https://quickchart.io/chart' # QuickChart public endpoint
+          GITHUB_USER: 'DzCodeProgrammer'
+        run: |
+          mkdir -p assets
+          node .github/profile-scripts/generate-charts.js
+
+      - name: Commit & push charts
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add assets/*.png || true
+          git diff --quiet && echo "No changes to commit" || (git commit -m "chore: update profile charts [skip ci]" && git push)
