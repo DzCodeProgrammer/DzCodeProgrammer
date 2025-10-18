@@ -146,8 +146,7 @@
 
 | 🐍 Contribution Snake |
 |---|
-| ![snake dark svg](https://github.com/DzCodeProgrammer/DzCodeProgrammer/blob/output/github-contribution-grid-snake.svg) |
-
+| ![GitHub Snake Dark](https://raw.githubusercontent.com/DzCorps/DzCorps/output/snake-dark.svg#gh-dark-mode-only) |
 | 🌙 Contribution Graph |
 |---|
 | [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
