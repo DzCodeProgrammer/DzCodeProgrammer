@@ -4,9 +4,9 @@
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi — I'm <strong>DzCodeProgrammer</strong></h1>
+<h1 align="center">👋 Hi I'm <strong>DzCodeProgrammer</strong></h1>
 <p align="center">
-  Curious coder from Indonesia 🇮🇩 — building small things that feel meaningful.  
+  Curious coder from Indonesia 🇮🇩 building small things that feel meaningful.  
   <em>I code to express, not to impress.</em>
 </p>
 
