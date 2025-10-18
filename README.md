@@ -149,7 +149,7 @@
 
 | 🐍 Contribution Snake |
 |---|
-| ![snake gif](https://raw.githubusercontent.com/DzCorps/DzCorps/output/snake.gif) |
+| ![snake gif](https://raw.githubusercontent.com/DzCorps/DzCodeProgrammer/output/snake.gif) |
 
 | 🌙 Contribution Graph |
 |---|
