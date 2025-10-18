@@ -163,7 +163,7 @@
 🔗 LinkedIn: [linkedin.com/in/dzikri-employe-979742335](https://www.linkedin.com/in/dzikri-employe-979742335)  
 📷 Instagram: [@dzikripendragon](https://www.instagram.com/dzikripendragon/)  
 🐦 X: [@Tobat_2](https://x.com/@Tobat_2)  
-📘 Facebook: [Alex Jovanah](https://www.facebook.com/Alex%20Jovanah)  
+📘 Facebook: [Alex Jovanah](https://www.facebook.com/@AlexJovanah)  
 🐙 GitHub: [DzCodeProgrammer](https://github.com/DzCodeProgrammer)
 
 ---
@@ -173,4 +173,3 @@
 <br>
 Made with ❤️ — <b>DzCodeProgrammer</b>
 </h4>
-in/dzikri-employe-979742335](https://www.linkedin.com/in/dzikri-employe-979742335) 📷 Instagram: [@dzikripendragon](https://www.instagram.com/dzikripendragon/) 🐦 X: [@Tobat_2](https://x.com/@Tobat_2) 🐙 GitHub: [DzCodeProgrammer](https://github.com/DzCodeProgrammer) --- <h4 align="center"> ✨ “Build small. Fail fast. Learn always. Create something that feels like yours.” ✨ <br> Made with ❤️ — <b>DzCodeProgrammer</b> </h4>
