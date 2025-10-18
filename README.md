@@ -1,146 +1,91 @@
-<!-- DzCodeProgrammer / README (Upgraded) -->
+<!-- README.md — DzCodeProgrammer -->
 <p align="center">
-  <!-- Banner — ganti URL ini ke banner milikmu jika perlu -->
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
-# 👋 Hey! Nice to see you  
-**I’m DzCodeProgrammer** — curious coder from Indonesia 🇮🇩  
-I tinker with code, blend art with logic, and chase ideas that feel alive.  
-_I don’t code to impress — I code to express._ 🌙✨
-
----
+<h1 align="center">👋 Hi — I'm <strong>DzCodeProgrammer</strong></h1>
+<p align="center">Curious coder from Indonesia 🇮🇩 — building small things that feel meaningful. <em>I code to express, not to impress.</em></p>
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/🌱-learning-JavaScript-blueviolet" alt="learning"/>
-  <img src="https://img.shields.io/badge/💼-focus-Full-Stack-orange" alt="focus"/>
-  <img src="https://img.shields.io/badge/📫-contact-yourname%40email.com-lightgrey" alt="contact"/>
-  <img src="https://img.shields.io/badge/✨-motto-Keep%20coding%20%26%20dreaming-brightgreen" alt="motto"/>
+  <img src="https://img.shields.io/badge/🌱-Learning-JavaScript-blueviolet" alt="learning"/>
+  <img src="https://img.shields.io/badge/💼-Focus-Full--Stack-orange" alt="focus"/>
+  <a href="mailto:dzikrijombang@gmail.com"><img src="https://img.shields.io/badge/📫-dzikrijombang%40gmail.com-D14836?style=flat" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-dzikri-blue?logo=linkedin" alt="linkedin"/></a>
 </p>
 
 ---
 
-## 🔍 Tentang Saya / About Me
-Seorang pembelajar yang percaya bahwa **setiap baris kode adalah langkah kecil menuju karya bermakna**.  
-I build things to learn, to fail, and to iterate — karena prosesnya lebih berharga daripada hasil cepat.
+## About / Tentang Saya
+Seorang pembelajar yang menggabungkan estetika, logika, dan eksperimen. Saya membangun proyek kecil untuk belajar konsep yang lebih besar, dan percaya bahwa setiap baris kode adalah langkah menuju sesuatu yang berarti.
 
-- 💻 Web dev enthusiast — HTML / CSS / JS / PHP, exploring frameworks  
-- 🎨 Menggabungkan kreativitas, anime aesthetic, dan UX sederhana  
-- 🧠 Suka eksperimen: side-projects, mini-games, dan tooling kecil  
-- 🌱 Fokus: memperkuat konsep full-stack & membangun project yang **meaningful**
-
----
-
-## 🧭 Filosofi Singkat / My Philosophy
-> Code is a conversation between idea and reality.  
-> Teknologi bukan sekadar alat — ia adalah medium untuk mengekspresikan imajinasi dan membentuk pengalaman.
+- 💻 Fokus: Web (HTML, CSS, JavaScript) — mulai memperdalam framework & full-stack  
+- 🔧 Tools: Git, VSCode, npm, Composer  
+- 🎨 Passion: UI/UX, animasi sederhana, aesthetic anime-inspired design  
+- 🌱 Goal: Build real-world, meaningful projects and a personal portfolio
 
 ---
 
-## 🛠️ Skills & Visuals
+## My Philosophy / Filosofi Singkat
+> *Code is a conversation between idea and reality.*  
+> Teknologi adalah medium untuk mengekspresikan imajinasi — bukan sekadar alat.
 
-### Skill Progress (visual)
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-85%25-ff6b6b" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-78%25-f7b267" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-f2e394" alt="JS"/>
-  <img src="https://img.shields.io/badge/PHP-65%25-9ad3bc" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Node.js-55%25-9ad3bc" alt="Node"/>
-  <img src="https://img.shields.io/badge/UI--UX-70%25-89b0ae" alt="UIUX"/>
-  <img src="https://img.shields.io/badge/Animation-60%25-9aa7ff" alt="Animation"/>
-</p>
+---
 
-### Skill Radar Chart
+## Visuals — Real-time charts (diperbarui otomatis oleh GitHub Action)
+> Chart di bawah di-generate setiap hari oleh workflow `.github/workflows/generate-charts.yml` (menggunakan GitHub API + QuickChart) — jadi statis di-render sebagai gambar yang selalu terbaru.
+
+### Commit activity (last 30 days)
 <p align="center">
-  <!-- QuickChart radar chart — sesuaikan nilai jika perlu -->
-  <img src="https://quickchart.io/chart?w=700&h=350&c={type:'radar',data:{labels:['HTML','CSS','JavaScript','PHP','Node.js','UI/UX','Animation'],datasets:[{label:'Skill Level',data:[85,78,80,65,55,70,60]}]},options:{scale:{ticks:{beginAtZero:true,max:100}},plugins:{legend:{display:false}}}}" alt="Skill Radar" />
+  <!-- generated image (commits per day) -->
+  <img src="./assets/commits-30days.png" alt="Commits 30 days" width="80%"/>
+</p>
+
+### Language distribution (top langs)
+<p align="center">
+  <img src="./assets/top-langs.png" alt="Top Languages" width="60%"/>
 </p>
 
 ---
 
-## 📈 Activity & Stats
-
-<p align="center">
-  <!-- GitHub readme stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- Contribution calendar / activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=DzCodeProgrammer&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzCodeProgrammer&theme=tokyonight" alt="streak" />
-</p>
-
-> _Tip_: jika salah satu widget tidak muncul, itu karena layanan pihak ketiga sedang down — beri tahu aku, aku bisa ganti dengan alternatif atau gambar statik.
-
----
-
-## 🚀 Projects (pin & highlight)
-> Klik untuk expand detail — ganti dengan repositori nyata saat sudah siap.
-
+## Selected Projects (highlight)
 <details>
-<summary>Interactive Anime Portfolio — (HTML/CSS/JS)</summary>
+<summary>Interactive Anime Portfolio — HTML/CSS/JS</summary>
 
-**Interactive Anime Portfolio** — Landing page dengan section animasi, responsive layout, dan micro-interactions.  
-Fitur: animated hero, modal gallery, smooth scrolling, theme switch.
-
-Link: `https://github.com/DzCodeProgrammer/interactive-anime-portfolio` *(ganti dengan repo sebenarnya)*
+Landing page with animated hero, responsive layout, micro interactions.  
+`https://github.com/DzCodeProgrammer/interactive-anime-portfolio`
 </details>
 
 <details>
-<summary>Mini Game — Guess the Word (JS)</summary>
+<summary>Guess the Word — Mini Game (JS)</summary>
 
-Simple browser game with local storage, levels, and scoring.  
-Tech: Vanilla JS, localStorage, responsive canvas.
-
-Link: `https://github.com/DzCodeProgrammer/guess-the-word`
-</details>
-
-<details>
-<summary>Simple Blog CMS (PHP)</summary>
-
-Lightweight CMS for personal blog — CRUD, simple auth, and markdown support.  
-Tech: PHP, MySQL, Composer.
-
-Link: `https://github.com/DzCodeProgrammer/simple-blog-cms`
+Vanilla JS game with levels & localStorage.  
+`https://github.com/DzCodeProgrammer/guess-the-word`
 </details>
 
 ---
 
-## 🛣️ Roadmap — What I’m learning next
-1. Deepen JavaScript: async patterns, modern tooling  
-2. Learn a front-end framework (React / Vue) for bigger UI projects  
-3. Build a deployable full-stack project (API + frontend + CI/CD)  
-4. Launch personal portfolio & first product
+## Roadmap
+1. Deepen JS & modern tooling (ES modules, bundlers)  
+2. Learn React/Vue & build one SPA portfolio  
+3. Deploy a full-stack product (API + frontend + CI/CD)
 
 ---
 
-## 🌟 Fun Facts & Motto
-> *“Keep coding, keep dreaming — karena setiap ide besar dimulai dari imajinasi.”*
-
-- Kopi + musik + malam sunyi = productivity mode ☕🎧  
-- Suka estetika anime & palet warna dreamy  
-- Terbuka kolaborasi & mentorship — ayo belajar bareng!
-
----
-
-## 📫 Let’s Connect
-<p align="left">
-  <a href="https://github.com/DzCodeProgrammer"><img src="https://img.shields.io/badge/GitHub-DzCodeProgrammer-181717?style=flat&logo=github" alt="github" /></a>
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-yourname%40example.com-D14836?style=flat&logo=gmail" alt="email" /></a>
-  <!-- Add other links: LinkedIn, Twitter, Portfolio -->
-</p>
-
----
-
+## GitHub Stats & Languages (live widgets — fallback)
 <p align="center">
-  ✨ _“Build small. Fail fast. Learn always. Create something that feels like yours.”_  
-  <br/>
-  Made with ❤️ — **DzCodeProgrammer**
+  <!-- github-readme-stats (still useful, but cached by the service) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=donut&theme=github_dark" alt="Top Languages" width="40%"/>
 </p>
+
+> Note: widgets above are public services and might be cached—the **assets/** charts are generated by your repo Action and are the most reliable "real-time daily" source.
+
+---
+
+## Connect
+- ✉️ dzikrijombang@gmail.com  
+- 🔗 https://www.linkedin.com/in/dzikri-employe-979742335
+
+---
+
+<p align="center">Made with ❤️ — <strong>DzCodeProgrammer</strong></p>
