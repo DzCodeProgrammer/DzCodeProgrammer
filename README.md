@@ -2,8 +2,23 @@
 
 <!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=9AA5B1&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    font=Fira%20Code&
+    size=24&
+    pause=1000&
+    color=A78BFA&
+    center=true&
+    vCenter=true&
+    width=900&
+    lines=Hi,+I'm+DzCodeProgrammer;
+    Curious+Builder+•+Full-Stack+Learner;
+    I+Code+to+Express+Ideas;
+    Welcome+to+My+Digital+Universe!" 
+    alt="typing"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
