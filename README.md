@@ -31,6 +31,16 @@
 
 ---
 
+<h3>🔮 Filosofi & Pendekatan</h3>
+
+> *Code is a conversation between idea and reality.*  
+> Saya memandang coding sebagai praktik kreatif: bukan hanya menulis baris yang benar, tetapi merancang pengalaman, menjaga kebersihan ide, dan merawat akar konseptualnya.  
+>  
+> **Pendekatan saya:** build small → fail fast → iterate with humility.  
+> Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan estetika.
+
+---
+
 <h3>💔🔍 Skill & Personality</h3>
 
 - Tidak punya skill menggoda cewek 😅  
@@ -42,11 +52,9 @@
 
 <h3>🗣️ Komunikasi</h3>
 
-- Kadang introvert, tapi bisa ngomong banyak kalau topiknya teknologi  
+- Kadang introvert, tapi bisa ngobrol panjang soal teknologi  
 - Suka berdiskusi tentang ide, bukan sekadar hasil  
-- Bisa bertanya 🤔  
-- Bisa membaca 📚  
-- Bisa mendengarkan (kadang 😆)
+- Bisa bertanya 🤔, bisa membaca 📚, dan berusaha mendengarkan
 
 ---
 
@@ -59,35 +67,11 @@
 
 ---
 
-<h3>📚 Kesibukan Saya</h3>
-<p>
-    Seorang pembelajar yang perfeksionis — jangan kasih proyek kalau belum siap diskusi detailnya 😅.
-</p>
-
----
-
 <h2>☕ Waktu Senggang = Waktu Berkembang</h2>
 <ul>
-  <li>
-    <h3>🚀 Mempelajari teknologi baru</h3>
-    <p>
-      Setiap hari adalah kesempatan untuk memahami sesuatu yang belum saya tahu.
-      Saya suka bereksperimen dan menulis ulang logika lama dengan cara baru.
-    </p>
-  </li>
-  <li>
-    <h3>📖 Membaca buku</h3>
-    <p>
-      Saya suka membaca topik teknologi, sejarah, biografi, dan kadang filsafat.
-      Membaca memperluas pandangan dan memperdalam makna berpikir.
-    </p>
-  </li>
-  <li>
-    <h3>🎮 Bermain game</h3>
-    <p>
-      Bukan sekadar hiburan, tapi juga latihan berpikir strategis dan observasi.
-    </p>
-  </li>
+  <li><strong>🚀 Mempelajari teknologi baru</strong> — eksperimen & prototyping</li>
+  <li><strong>📖 Membaca buku</strong> — teknologi, sejarah, filsafat</li>
+  <li><strong>🎮 Bermain game</strong> — untuk relaksasi dan strategi berpikir</li>
 </ul>
 
 ---
@@ -102,6 +86,9 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 ---
@@ -114,7 +101,9 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
 ---
@@ -127,11 +116,17 @@
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -156,6 +151,8 @@
 📧 Email: **dzikrijombang@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/dzikri-employe-979742335](https://www.linkedin.com/in/dzikri-employe-979742335)  
 📷 Instagram: [@dzikripendragon](https://www.instagram.com/dzikripendragon/)  
+🐦 X: [@Tobat_2](https://x.com/@Tobat_2)  
+📘 Facebook: [Alex Jovanah](https://www.facebook.com/Alex%20Jovanah)  
 🐙 GitHub: [DzCodeProgrammer](https://github.com/DzCodeProgrammer)
 
 ---
