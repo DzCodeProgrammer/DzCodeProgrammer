@@ -151,7 +151,7 @@
 
 | 🐍 Contribution Snake |
 |---|
-| ![Snake animation](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg?sanitize=true&timestamp=${new Date().getTime()}) |
+| ![GitHub Snake Dark](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/github-contribution-grid-snake-dark.svg) |
 
 | 🌙 Contribution Graph |
 |---|
