@@ -1,8 +1,8 @@
-<!-- README.md — DzCodeProgrammer (FINAL - Unified) -->
+<!-- README.md — DzCodeProgrammer (ULTRA FINAL AUTO-REFRESH VERSION) -->
 
 <!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=9aa5b1&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+builder+%E2%80%A2+Full-stack+learner;I+code+to+express+ideas" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=9AA5B1&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/>
 </p>
 
 <p align="center">
@@ -10,17 +10,19 @@
 </p>
 
 🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br>
-🔗 ![DzCodeProgrammer](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
+🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
 🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
 
+---
+
 <h1 align="left">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    <img src="https://em-content.zobj.net/thumbs/120/twitter/351/rocket_1f680.png" width="30"/> 
     <b>Hey! Nice to see you</b>
 </h1>
 
 <p>
     Welcome to my <b>GitHub Profile!</b> <br>
-    I'm <b>DzCodeProgrammer</b> — seorang pembelajar dan penggila teknologi dari 
+    I'm <b>DzCodeProgrammer</b> — a passionate learner and technology enthusiast from 
     <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩.
 </p>
 
@@ -46,7 +48,7 @@
 
 > *Code is a conversation between idea and reality.*  
 > Saya memandang coding sebagai praktik kreatif: bukan hanya menulis baris yang benar, tetapi merancang pengalaman, menjaga kebersihan ide, dan merawat akar konseptualnya.  
->  
+>
 > **Pendekatan saya:** build small → fail fast → iterate with humility.  
 > Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan estetika.
 
@@ -65,7 +67,7 @@
 
 - Kadang introvert, tapi bisa ngobrol panjang soal teknologi  
 - Suka berdiskusi tentang ide, bukan sekadar hasil  
-- Bisa bertanya 🤔, bisa membaca 📚, dan berusaha mendengarkan
+- Bisa bertanya 🤔, bisa membaca 📚, dan berusaha mendengarkan  
 
 ---
 
@@ -90,16 +92,16 @@
 <h3>💻 Programming Languages</h3>
 
 <p>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 ---
@@ -122,25 +124,16 @@
 <h3>🏷️ Tools, Platforms & DevOps</h3>
 
 <p>
-    <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 ---
@@ -149,11 +142,23 @@
 
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6)](https://github.com/DzCodeProgrammer) | [![DzCodeProgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark)](https://github.com/DzCodeProgrammer) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
-| 🌙 My Github Contribution Graph |
+| 🐍 Contribution Snake |
 |---|
-| [![DzCodeProgrammer](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| ![snake gif](https://github.com/DzCodeProgrammer/DzCodeProgrammer/blob/output/github-contribution-grid-snake.svg) |
+
+| 🌙 Contribution Graph |
+|---|
+| [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+---
+
+<h3>📦 Featured Projects</h3>
+
+- 🧠 **NeuraLink Web** — Smart AI front-end integration demo  
+- 🌐 **DzCode Labs** — Playground for experimental UI & system logic  
+- ⚙️ **QuantumBot** — Automated micro-AI chat experiment  
 
 ---
 
@@ -171,5 +176,7 @@
 <h4 align="center">
 ✨ “Build small. Fail fast. Learn always. Create something that feels like yours.” ✨  
 <br>
-Made with ❤️ — <b>DzCodeProgrammer</b>
+Made with ❤️ — <b>DzCodeProgrammer</b>  
+<br><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </h4>
