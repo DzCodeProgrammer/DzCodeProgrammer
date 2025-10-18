@@ -1,91 +1,76 @@
-<!-- README.md — DzCodeProgrammer -->
+<!-- README.md — DzCodeProgrammer (Dashboard style) -->
 <p align="center">
-  <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
+  <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" style="border-radius:10px"/>
 </p>
 
-<h1 align="center">👋 Hi — I'm <strong>DzCodeProgrammer</strong></h1>
-<p align="center">Curious coder from Indonesia 🇮🇩 — building small things that feel meaningful. <em>I code to express, not to impress.</em></p>
+# 👋 Hi — I'm **DzCodeProgrammer**
+<p>Curious coder from Indonesia 🇮🇩 — I blend art & logic to build meaningful small products. <em>I code to express, not to impress.</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌱-Learning-JavaScript-blueviolet" alt="learning"/>
-  <img src="https://img.shields.io/badge/💼-Focus-Full--Stack-orange" alt="focus"/>
   <a href="mailto:dzikrijombang@gmail.com"><img src="https://img.shields.io/badge/📫-dzikrijombang%40gmail.com-D14836?style=flat" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-dzikri-blue?logo=linkedin" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-dzikri-blue?logo=linkedin&style=flat" alt="linkedin"/></a>
+  <img src="https://img.shields.io/badge/🌱-Learning-JavaScript-blueviolet?style=flat" alt="learning"/>
+  <img src="https://img.shields.io/badge/💼-Focus-Full--Stack-orange?style=flat" alt="focus"/>
 </p>
+
+---
+
+<!-- dashboard cards -->
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      ### 📊 Summary
+      <table>
+        <tr><td><img src="./assets/summary-stats.png" alt="summary" width="100%"/></td></tr>
+      </table>
+      *Total repos, stars, recent commits — generated daily.*
+    </td>
+
+    <td width="33%" valign="top">
+      ### 🔁 Contribution (30 days)
+      <img src="./assets/commits-30days.png" alt="commits" width="100%"/>
+      *Grafik ini menunjukkan commit/kontribusi (aproks.) pada 30 hari terakhir.*
+    </td>
+
+    <td width="33%" valign="top">
+      ### 🧰 Languages (Top)
+      <img src="./assets/top-langs.png" alt="top langs" width="100%"/>
+      *Distribusi bahasa pemrograman berdasarkan repo publik.*
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## About / Tentang Saya
-Seorang pembelajar yang menggabungkan estetika, logika, dan eksperimen. Saya membangun proyek kecil untuk belajar konsep yang lebih besar, dan percaya bahwa setiap baris kode adalah langkah menuju sesuatu yang berarti.
+Seorang pembelajar dan pembuat kecil (maker) yang suka bereksperimen: UI/UX sederhana, animasi micro, dan proyek web. Tujuan: membangun produk bermakna sambil terus belajar.
 
-- 💻 Fokus: Web (HTML, CSS, JavaScript) — mulai memperdalam framework & full-stack  
+- 💻 Fokus: HTML, CSS, JavaScript, PHP (belajar full-stack)  
 - 🔧 Tools: Git, VSCode, npm, Composer  
-- 🎨 Passion: UI/UX, animasi sederhana, aesthetic anime-inspired design  
-- 🌱 Goal: Build real-world, meaningful projects and a personal portfolio
+- 🌱 Motto: *Build small. Fail fast. Learn always.*
 
 ---
 
-## My Philosophy / Filosofi Singkat
-> *Code is a conversation between idea and reality.*  
-> Teknologi adalah medium untuk mengekspresikan imajinasi — bukan sekadar alat.
-
----
-
-## Visuals — Real-time charts (diperbarui otomatis oleh GitHub Action)
-> Chart di bawah di-generate setiap hari oleh workflow `.github/workflows/generate-charts.yml` (menggunakan GitHub API + QuickChart) — jadi statis di-render sebagai gambar yang selalu terbaru.
-
-### Commit activity (last 30 days)
-<p align="center">
-  <!-- generated image (commits per day) -->
-  <img src="./assets/commits-30days.png" alt="Commits 30 days" width="80%"/>
-</p>
-
-### Language distribution (top langs)
-<p align="center">
-  <img src="./assets/top-langs.png" alt="Top Languages" width="60%"/>
-</p>
-
----
-
-## Selected Projects (highlight)
+## Projects (pin & highlight)
 <details>
-<summary>Interactive Anime Portfolio — HTML/CSS/JS</summary>
-
-Landing page with animated hero, responsive layout, micro interactions.  
+<summary>Interactive Anime Portfolio</summary>
+Landing page dengan micro-animation, responsive layout, theme-switcher.  
 `https://github.com/DzCodeProgrammer/interactive-anime-portfolio`
 </details>
 
 <details>
-<summary>Guess the Word — Mini Game (JS)</summary>
-
-Vanilla JS game with levels & localStorage.  
+<summary>Guess the Word — Mini Game</summary>
+Browser game sederhana (Vanilla JS + localStorage).  
 `https://github.com/DzCodeProgrammer/guess-the-word`
 </details>
 
 ---
 
-## Roadmap
-1. Deepen JS & modern tooling (ES modules, bundlers)  
-2. Learn React/Vue & build one SPA portfolio  
-3. Deploy a full-stack product (API + frontend + CI/CD)
+## Notes
+- Semua gambar chart berada di folder `assets/` dan dihasilkan oleh GitHub Action `generate-charts`.  
+- Jika ingin mengubah frekuensi update: edit cron di workflow (`.github/workflows/generate-charts.yml`).  
+- Jika widget tidak muncul setelah push: jalankan workflow manual di tab Actions.
 
 ---
 
-## GitHub Stats & Languages (live widgets — fallback)
-<p align="center">
-  <!-- github-readme-stats (still useful, but cached by the service) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=donut&theme=github_dark" alt="Top Languages" width="40%"/>
-</p>
-
-> Note: widgets above are public services and might be cached—the **assets/** charts are generated by your repo Action and are the most reliable "real-time daily" source.
-
----
-
-## Connect
-- ✉️ dzikrijombang@gmail.com  
-- 🔗 https://www.linkedin.com/in/dzikri-employe-979742335
-
----
-
-<p align="center">Made with ❤️ — <strong>DzCodeProgrammer</strong></p>
+<p align="center">Made with ❤️ — **DzCodeProgrammer**</p>
