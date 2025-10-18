@@ -149,7 +149,7 @@
 
 | 🐍 Contribution Snake |
 |---|
-| ![snake gif](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake.gif) |
+| ![snake dark svg](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg#gh-dark-mode-only) |
 
 | 🌙 Contribution Graph |
 |---|
