@@ -9,9 +9,6 @@
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
-
-
-
 🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br>
 🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
 🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
@@ -145,17 +142,16 @@
 
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats-eosin.vercel.app?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=600)](https://github.com/DzCodeProgrammer) |
-
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
 | 🐍 Contribution Snake |
 |---|
-| ![GitHub Snake Dark](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/github-contribution-grid-snake-dark.svg) |
+| ![snake dark svg](https://github.com/DzCodeProgrammer/DzCodeProgrammer/blob/output/github-contribution-grid-snake.svg) |
 
 | 🌙 Contribution Graph |
 |---|
-| [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=600)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
 ---
 
 <h3>📦 Featured Projects</h3>
