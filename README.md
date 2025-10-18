@@ -152,7 +152,7 @@
 🔗 LinkedIn: [linkedin.com/in/dzikri-employe-979742335](https://www.linkedin.com/in/dzikri-employe-979742335)  
 📷 Instagram: [@dzikripendragon](https://www.instagram.com/dzikripendragon/)  
 🐦 X: [@Tobat_2](https://x.com/@Tobat_2)  
-📘 Facebook: [Alex Jovanah]([https://www.facebook.com/Alex%20Jovanah](https://www.facebook.com/profile.php?id=100079668243347))  
+📘 Facebook: [Alex Jovanah]([https://www.facebook.com/profile.php?id=100079668243347)] 
 🐙 GitHub: [DzCodeProgrammer](https://github.com/DzCodeProgrammer)
 
 ---
