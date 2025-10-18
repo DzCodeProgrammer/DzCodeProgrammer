@@ -1,76 +1,87 @@
-<!-- README.md — DzCodeProgrammer (Dashboard style) -->
+<!-- DzCodeProgrammer / README -->
 <p align="center">
-  <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" style="border-radius:10px"/>
+  <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
-# 👋 Hi — I'm **DzCodeProgrammer**
-<p>Curious coder from Indonesia 🇮🇩 — I blend art & logic to build meaningful small products. <em>I code to express, not to impress.</em></p>
+# 👋 Hey! Nice to see you  
+**I’m DzCodeProgrammer** — a curious coder from Indonesia 🇮🇩  
+I tinker with code, blend art with logic, and chase ideas that feel alive.  
+_I don’t code to impress — I code to express._ 🌙✨
 
+---
+
+## 🔍 Tentang Saya / About Me
+Seorang pembelajar yang percaya bahwa setiap baris kode adalah langkah kecil menuju karya bermakna.  
+I build things to learn, to fail, and to iterate — karena prosesnya lebih berharga daripada hasil cepat.
+
+- 💻 Web dev enthusiast — HTML / CSS / JS / PHP, exploring frameworks  
+- 🎨 Menggabungkan kreativitas, anime aesthetic, dan UX sederhana  
+- 🧠 Suka eksperimen: side-projects, mini-games, dan tooling kecil  
+- 🌱 Fokus: memperkuat konsep full-stack & membangun project yang **meaningful**
+
+---
+
+## 🧭 Filosofi Singkat / My Philosophy
+> Code is a conversation between idea and reality.  
+> Teknologi bukan sekadar alat — ia adalah medium untuk mengekspresikan imajinasi dan membentuk pengalaman.
+
+---
+
+## 🛠️ Skills & Tools
+**Front-End**
+- HTML • CSS • JavaScript • Responsive Design
+
+**Back-End (basic)**
+- PHP • Node.js • REST basics
+
+**Tools & Workflow**
+- Git • VSCode • npm • Composer • DevTools
+
+**Minat lain**
+- UI/UX, animasi sederhana, design-driven development
+
+---
+
+## 🚀 Projects (pinned ideas — update with your repos)
+> _These are examples — replace with your real projects & links._
+
+- **Interactive Anime Portfolio** — landing page with animated sections (HTML/CSS/JS)  
+- **Mini Game — Guess the Word** — browser game with local storage & score system  
+- **Simple Blog CMS (PHP)** — lightweight content manager for learning backend flows
+
+---
+
+## 🛣️ Roadmap — What I’m learning next
+1. Deepen JavaScript: async patterns, modern tooling  
+2. Learn a front-end framework (React / Vue) for bigger UI projects  
+3. Build a full-stack real project: API + frontend + deploy pipeline  
+4. Design a personal portfolio & small product to share with the world
+
+---
+
+## 🌟 Fun Facts & Motto
+> *“Keep coding, keep dreaming — karena setiap ide besar dimulai dari imajinasi.”*
+
+- Kopi + musik + malam sunyi = productivity mode ☕🎧  
+- Suka estetika anime & palet warna dreamy  
+- Terbuka kolaborasi & mentorship — ayo belajar bareng!
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:dzikrijombang@gmail.com"><img src="https://img.shields.io/badge/📫-dzikrijombang%40gmail.com-D14836?style=flat" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-dzikri-blue?logo=linkedin&style=flat" alt="linkedin"/></a>
-  <img src="https://img.shields.io/badge/🌱-Learning-JavaScript-blueviolet?style=flat" alt="learning"/>
-  <img src="https://img.shields.io/badge/💼-Focus-Full--Stack-orange?style=flat" alt="focus"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- dashboard cards -->
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      ### 📊 Summary
-      <table>
-        <tr><td><img src="./assets/summary-stats.png" alt="summary" width="100%"/></td></tr>
-      </table>
-      *Total repos, stars, recent commits — generated daily.*
-    </td>
-
-    <td width="33%" valign="top">
-      ### 🔁 Contribution (30 days)
-      <img src="./assets/commits-30days.png" alt="commits" width="100%"/>
-      *Grafik ini menunjukkan commit/kontribusi (aproks.) pada 30 hari terakhir.*
-    </td>
-
-    <td width="33%" valign="top">
-      ### 🧰 Languages (Top)
-      <img src="./assets/top-langs.png" alt="top langs" width="100%"/>
-      *Distribusi bahasa pemrograman berdasarkan repo publik.*
-    </td>
-  </tr>
-</table>
+## 📫 Let’s Connect
+- GitHub: [@DzCodeProgrammer](https://github.com/DzCodeProgrammer)  
+- Email: yourname[at]example.com *(ganti dengan email kamu jika mau ditampilkan)*  
+- Portfolio: *(coming soon — tempatkan link ketika sudah siap)*
 
 ---
 
-## About / Tentang Saya
-Seorang pembelajar dan pembuat kecil (maker) yang suka bereksperimen: UI/UX sederhana, animasi micro, dan proyek web. Tujuan: membangun produk bermakna sambil terus belajar.
-
-- 💻 Fokus: HTML, CSS, JavaScript, PHP (belajar full-stack)  
-- 🔧 Tools: Git, VSCode, npm, Composer  
-- 🌱 Motto: *Build small. Fail fast. Learn always.*
-
----
-
-## Projects (pin & highlight)
-<details>
-<summary>Interactive Anime Portfolio</summary>
-Landing page dengan micro-animation, responsive layout, theme-switcher.  
-`https://github.com/DzCodeProgrammer/interactive-anime-portfolio`
-</details>
-
-<details>
-<summary>Guess the Word — Mini Game</summary>
-Browser game sederhana (Vanilla JS + localStorage).  
-`https://github.com/DzCodeProgrammer/guess-the-word`
-</details>
-
----
-
-## Notes
-- Semua gambar chart berada di folder `assets/` dan dihasilkan oleh GitHub Action `generate-charts`.  
-- Jika ingin mengubah frekuensi update: edit cron di workflow (`.github/workflows/generate-charts.yml`).  
-- Jika widget tidak muncul setelah push: jalankan workflow manual di tab Actions.
-
----
-
-<p align="center">Made with ❤️ — **DzCodeProgrammer**</p>
+> ✨ _“Build small. Fail fast. Learn always. Create something that feels like yours.”_  
+<p align="center">Made with ❤️ — DzCodeProgrammer</p>
