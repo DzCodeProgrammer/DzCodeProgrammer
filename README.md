@@ -1,5 +1,6 @@
 <!-- README.md — DzCodeProgrammer (ULTRA FINAL AUTO-REFRESH VERSION) -->
 
+
 <!-- Typing header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/>
