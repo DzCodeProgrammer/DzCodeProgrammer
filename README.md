@@ -10,11 +10,9 @@
 </p>
 
 <p align="center">
-  🔗 <img src="https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet" alt="profile views" />
-  &nbsp;&nbsp;
-  🔗 <img src="https://visitor-badge.laobi.icu/badge?page_id=DzCodeProgrammer.DzCodeProgrammer&left_color=blueviolet&right_color=purple" alt="visitors" />
-  &nbsp;&nbsp;
-  🙌 [![Sponsor](https://img.shields.io/badge/Sponsor-DzCodeProgrammer-blueviolet?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/DzCodeProgrammer)
+  🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br>
+  🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
+  🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
 </p>
 
 ---
@@ -29,39 +27,40 @@ I'm **DzCodeProgrammer** — a passionate learner and technology enthusiast from
 Web developer & creative coder yang gemar memadukan logika dan estetika.  
 Saya percaya bahwa setiap baris kode memiliki makna — baik dalam bentuk teknologi maupun seni.
 
-- 💻 Web dev enthusiast (HTML, CSS, JS, PHP, TypeScript, dan lainnya)  
-- 🧠 Suka bereksperimen dengan framework dan membuat project kecil yang bermakna  
-- 🎨 Menggabungkan teknologi dengan inspirasi visual & anime art  
-- 🌱 Fokus saat ini: memperdalam konsep full-stack dan sistem backend yang efisien
+💻 Web dev enthusiast (HTML, CSS, JS, PHP, TypeScript, dan lainnya)  
+🧠 Suka bereksperimen dengan framework dan membuat project kecil yang bermakna  
+🎨 Menggabungkan teknologi dengan inspirasi visual & anime art  
+🌱 Fokus saat ini: memperdalam konsep full-stack dan sistem backend yang efisien
 
 ---
 
 ## 🔮 Filosofi & Pendekatan
 > *Code is a conversation between idea and reality.*  
-Saya memandang coding sebagai praktik kreatif: bukan hanya menulis baris yang benar, tetapi merancang pengalaman, menjaga kebersihan ide, dan merawat akar konseptualnya.
-
-**Pendekatan saya:** build small → fail fast → iterate with humility.  
-Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan estetika.
+> Saya memandang coding sebagai praktik kreatif: bukan hanya menulis baris yang benar, tetapi merancang pengalaman, menjaga kebersihan ide, dan merawat akar konseptualnya.  
+>
+> **Pendekatan saya:** build small → fail fast → iterate with humility.  
+> Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan estetika.
 
 ---
 
 ## 💔🔍 Skill & Personality
 - Tidak punya skill menggoda cewek 😅  
-- Tertarik pada hal-hal yang membuat saya tertarik  
+- Tertarik pada hal-hal yang membuat saya tertarik (yes, it’s recursive)  
 - Selalu berpikir “bagaimana jika?” dan mengubah rasa penasaran jadi proyek nyata  
 - Perfeksionis dengan sentuhan filosofi: *“Kesempurnaan bukan tujuan, tapi jalan yang tak pernah selesai.”*
 
 ---
 
 ## 🗣️ Komunikasi
-- Kadang introvert, tapi suka berdiskusi panjang soal teknologi  
-- Bisa bertanya 🤔, baca 📚, dan berusaha mendengarkan  
+- Kadang introvert, tapi bisa ngobrol panjang soal teknologi  
+- Suka berdiskusi tentang ide, bukan sekadar hasil  
+- Bisa bertanya 🤔, bisa membaca 📚, dan berusaha mendengarkan
 
 ---
 
 ## 💻 Developer Life
-- Eksplorasi sistem, desain, dan eksperimen  
-- Jika punya dana: ingin membangun proyek IoT pribadi 🌐  
+- Hobi: eksplorasi sistem, desain, dan eksperimen  
+- Jika punya uang lebih: ingin membangun proyek IoT pribadi 🌐  
 - Mimpi: membuat rumah tangguh untuk masa depan apokaliptik 🏚️🚨  
 - Moto: _"Code. Create. Contribute."_
 
@@ -70,7 +69,7 @@ Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan est
 ## ☕ Waktu Senggang = Waktu Berkembang
 - 🚀 Mempelajari teknologi baru — eksperimen & prototyping  
 - 📖 Membaca buku — teknologi, sejarah, filsafat  
-- 🎮 Bermain game — relaksasi & strategi berpikir
+- 🎮 Bermain game — untuk relaksasi dan strategi berpikir
 
 ---
 
@@ -121,6 +120,7 @@ Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan est
 ---
 
 ## 📊 My GitHub Stats
+
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
@@ -128,8 +128,9 @@ Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan est
 ---
 
 ## 🌙 Contribution & Activity
+
 **Contribution Snake (dark):**  
-![Snake dark](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/github-contribution-grid-snake-dark.svg)
+![Snake dark](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg#gh-dark-mode-only)
 
 **Contribution Graph:**  
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -155,20 +156,19 @@ Tujuan: membuat solusi yang berguna, dapat dipelihara, dan memiliki sentuhan est
 
 ---
 
-> ✨ “Build small. Fail fast. Learn always. Create something that feels like yours.”  
-> Made with ❤️ — **DzCodeProgrammer**
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered by coffee" />
-</p>
+<h4 align="center"
+✨ “Build small. Fail fast. Learn always. Create something that feels like yours.” ✨  
+<br>
+Made with ❤️ — <b>DzCodeProgrammer</b>  
+<br><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+</h4>
 
 ---
 
 ## 📜 License
 <p align="center">
-  <a href="./LICENSE">
+  <a href="License">
     <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="MIT License"/>
   </a>
 </p>
-
