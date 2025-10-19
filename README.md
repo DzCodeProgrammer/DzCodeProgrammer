@@ -484,8 +484,8 @@
 ---
 
 <h3>📦 Featured Projects</h3>
-🧠 NeuraLink Web — Smart AI front-end integration demo
-🌐 DzCode Labs — Playground for experimental UI & system logic
+🧠 NeuraLink Web — Smart AI front-end integration demo <br>
+🌐 DzCode Labs — Playground for experimental UI & system logic <br>
 ⚙️ QuantumBot — Automated micro-AI chat experiment
 
 ---
