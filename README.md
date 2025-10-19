@@ -491,12 +491,17 @@
 ---
 
 <h3>📫 Contact & Connect</h3>
-📧 Email: dzikrijombang@gmail.com <br>
-🔗 LinkedIn: [linkedin.com/in/dzikri-employe-979742335](https://www.linkedin.com/in/dzikri-employe-979742335) <br>
-📷 Instagram: [@dzikripendragon](https://www.instagram.com/dzikripendragon/) <br>
-🐦 X: [@Tobat_2](https://x.com/@Tobat_2) <br>
-📘 Facebook: [Alex Jovanah](https://www.facebook.com/AlexJovanah) <br>
-🐙 GitHub: [DzCodeProgrammer](https://github.com/DzCodeProgrammer)
+<h4>🌐 Connect With Me</h4>
+
+📧 **Email:** <a href="mailto:dzikrijombang@gmail.com"><img src="https://img.shields.io/badge/Email-Dzikri%20Bartender-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <br>
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-Dzikri%20Employe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <br>
+📷 **Instagram:** <a href="https://www.instagram.com/dzikripendragon/"><img src="https://img.shields.io/badge/Instagram-@dzikripendragon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <br>
+🐦 **X (Twitter):** <a href="https://x.com/@Tobat_2"><img src="https://img.shields.io/badge/X-@Tobat__2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a> <br>
+📘 **Facebook:** <a href="https://www.facebook.com/AlexJovanah"><img src="https://img.shields.io/badge/Facebook-Alex%20Jovanah-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <br>
+🐙 **GitHub:** <a href="https://github.com/DzCodeProgrammer"><img src="https://img.shields.io/badge/GitHub-DzCodeProgrammer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <br>
+▶️ **YouTube:** <a href="https://www.youtube.com/@DzNameless"><img src="https://img.shields.io/badge/YouTube-DzNameless-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <br>
+💬 **Discord:** <a href="https://discord.com/channels/@java0232_85204"><img src="https://img.shields.io/badge/Discord-java0232__85204-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <br>
+🎵 **TikTok:** <a href="https://www.tiktok.com/@fakername01"><img src="https://img.shields.io/badge/TikTok-@fakername01-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 
 ---
 
