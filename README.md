@@ -188,9 +188,11 @@ Made with ❤️ — <b>DzCodeProgrammer</b>
 <h3 align="center">📜 License</h3>
 
 <p align="center">
-  This project is licensed under the 
-  <a href="LICENSE">MIT License</a> © 2025 — Developed by <b>DzCodeProgrammer</b> 💻  
+  <a href="License">
+    <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="MIT License"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="license badge"/>
