@@ -1,20 +1,21 @@
 <!-- README.md — DzCodeProgrammer (ULTRA FINAL AUTO-REFRESH VERSION) -->
 
-
 <!-- Typing header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
-🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br>
-🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
-🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
+<p align="center">
+  🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet)
+  <br>
+  🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer)
+  <br>
+  🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
+</p>
 
 ---
 
@@ -150,6 +151,7 @@
 | 🐍 Contribution Snake |
 |---|
 | ![Snake dark](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg#gh-dark-mode-only) |
+
 | 🌙 Contribution Graph |
 |---|
 | [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
@@ -180,7 +182,8 @@
 <br>
 Made with ❤️ — <b>DzCodeProgrammer</b>  
 <br><br>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"> 
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </h4>
 
 ---
@@ -188,13 +191,7 @@ Made with ❤️ — <b>DzCodeProgrammer</b>
 <h3 align="center">📜 License</h3>
 
 <p align="center">
-  <a href="License">
+  <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="MIT License"/>
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="license badge"/>
-</p>
-
