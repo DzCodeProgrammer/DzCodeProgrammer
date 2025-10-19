@@ -20,7 +20,7 @@
 
 <p>
   Welcome to my <b>GitHub Profile!</b> <br>
-  I'm <b>DzCodeProgrammer</b> — a passionate learner and technology enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩.
+  I'm <b>DzCodeProgrammer</b> a passionate learner and technology enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩.
 </p>
 
 ---
@@ -50,8 +50,8 @@
 
 <p>
   💻 Passionate about <b>front-end and back-end web development</b> (HTML, CSS, JS, PHP, TypeScript, and more).  
-  🧠 I enjoy experimenting — transforming abstract ideas into functional, interactive systems and improving them continuously.  
-  🎨 For me, design and logic are inseparable — beautiful UI deserves clean, efficient code.  
+  🧠 I enjoy experimenting transforming abstract ideas into functional, interactive systems and improving them continuously.  
+  🎨 For me, design and logic are inseparable beautiful UI deserves clean, efficient code.  
   🌱 Currently focusing on <b>full-stack architecture, backend optimization, and scalable systems</b>.  
   🌍 My ultimate goal: to create technology that feels human, purposeful, and timeless.
 </p>
@@ -63,8 +63,8 @@
 > *"Code is a conversation between idea and reality the bridge that turns imagination into experience."*
 
 <p>
-  Every project should begin with purpose. Whether it’s a simple script or a complex system, I treat coding as a craft — requiring patience, empathy, and curiosity.  
-  My philosophy emphasizes <b>clarity, consistency, and creativity</b>. Good code doesn’t just work — it communicates.
+  Every project should begin with purpose. Whether it’s a simple script or a complex system, I treat coding as a craft requiring patience, empathy, and curiosity.  
+  My philosophy emphasizes <b>clarity, consistency, and creativity</b>. Good code doesn’t just work it communicates.
 </p>
 
 <p>
@@ -87,9 +87,9 @@
   <li>🧩 <b>Problem Solver:</b> Enjoy breaking down complex systems into simple logic and improving what’s broken.</li>
   <li>💡 <b>Creative Thinker:</b> Often connects unrelated ideas to form fresh approaches.</li>
   <li>📚 <b>Perfectionist Learner:</b> Never satisfied until fully understanding the logic beneath the syntax.</li>
-  <li>😅 <b>No skill in flirting</b> — unless it’s with new frameworks or technologies!</li>
-  <li>🔁 <b>Recursive Curiosity:</b> Interested in things that interest me — infinitely.</li>
-  <li>💭 <b>Philosophical Coder:</b> “Perfection isn’t the goal — it’s the journey that defines the creator.”</li>
+  <li>😅 <b>No skill in flirting</b> unless it’s with new frameworks or technologies!</li>
+  <li>🔁 <b>Recursive Curiosity:</b> Interested in things that interest me infinitely.</li>
+  <li>💭 <b>Philosophical Coder:</b> “Perfection isn’t the goal it’s the journey that defines the creator.”</li>
 </ul>
 
 ---
@@ -98,12 +98,12 @@
 
 <p>
   Quiet at first, but deeply engaged in meaningful discussions about technology, systems, and creative logic.  
-  I value <b>depth over noise</b> — preferring conversations that explore ideas and perspectives rather than surface-level talk.
+  I value <b>depth over noise</b> preferring conversations that explore ideas and perspectives rather than surface-level talk.
 </p>
 
 <p>
   🔸 I ask questions to seek understanding, not just answers.  
-  🔸 I listen before I respond — every thought has value.  
+  🔸 I listen before I respond every thought has value.  
   🔸 I believe real tech communication means <b>sharing clarity, not just code</b>.
 </p>
 
@@ -113,17 +113,17 @@
 
 <p>
   My developer life revolves around curiosity and creation.  
-  I see digital systems as extensions of human creativity — imperfect, yet infinitely expandable.
+  I see digital systems as extensions of human creativity imperfect, yet infinitely expandable.
 </p>
 
 <p>
   🚀 Love exploring frameworks, improving workflows, and building scalable ideas.  
-  🌐 Enjoy crafting small but impactful systems — from AI prototypes to visual web experiments.  
+  🌐 Enjoy crafting small but impactful systems from AI prototypes to visual web experiments.  
   💡 If possible, I’d build an <b>IoT-based AI Lab</b> for smart automation, robotics, and sustainable tech.  
 </p>
 
 <p>
-  🔮 <b>Dream Project:</b> An open-source, adaptive ecosystem that evolves and teaches — technology that truly feels alive.  
+  🔮 <b>Dream Project:</b> An open-source, adaptive ecosystem that evolves and teaches technology that truly feels alive.  
 </p>
 
 <p>
@@ -484,9 +484,9 @@
 ---
 
 <h3>📦 Featured Projects</h3>
-- 🧠 NeuraLink Web** — Smart AI front-end integration demo
-- 🌐 DzCode Labs** — Playground for experimental UI & system logic
-- ⚙️ QuantumBot** — Automated micro-AI chat experiment
+🧠 NeuraLink Web — Smart AI front-end integration demo
+🌐 DzCode Labs — Playground for experimental UI & system logic
+⚙️ QuantumBot — Automated micro-AI chat experiment
 
 ---
 
@@ -502,7 +502,7 @@
 
 <h4 align="center">
   ✨ “Build small. Fail fast. Learn always. Create something that feels like yours.” ✨ <br>
-  Made with ❤️ — <b>DzCodeProgrammer</b> <br><br>
+  Made with ❤️ <b>DzCodeProgrammer</b> <br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </h4>
