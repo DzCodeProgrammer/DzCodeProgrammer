@@ -1,34 +1,7 @@
 <!-- README.md — DzCodeProgrammer (ULTRA FINAL AUTO-REFRESH VERSION) -->
 
 <!-- Typing header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/>
-</p>
-
-<p align="center">
-  <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
-</p>
-
-<p align="center">
-  🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet)
-  <br>
-  🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer)
-  <br>
-  🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer)
-</p>
-
----
-
-<h1 align="left">
-    <img src="https://em-content.zobj.net/thumbs/120/twitter/351/rocket_1f680.png" width="30"/> 
-    <b>Hey! Nice to see you</b>
-</h1>
-
-<p>
-    Welcome to my <b>GitHub Profile!</b> <br>
-    I'm <b>DzCodeProgrammer</b> — a passionate learner and technology enthusiast from 
-    <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩.
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi,+I'm+DzCodeProgrammer;Curious+Builder+•+Full-Stack+Learner;I+Code+to+Express+Ideas;Welcome+to+My+Digital+Universe!" alt="typing"/> </p> <p align="center"> <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" /> </p> 🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br> 🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br> 🙌 [![Sponsor](https://github.com/sponsors/DzCodeProgrammer/badge.svg)](https://github.com/sponsors/DzCodeProgrammer) --- <h1 align="left"> <img src="https://em-content.zobj.net/thumbs/120/twitter/351/rocket_1f680.png" width="30"/> <b>Hey! Nice to see you</b> </h1> <p> Welcome to my <b>GitHub Profile!</b> <br> I'm <b>DzCodeProgrammer</b> — a passionate learner and technology enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩. </p>
 
 ---
 
