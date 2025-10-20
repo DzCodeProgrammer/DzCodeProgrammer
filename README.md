@@ -469,7 +469,7 @@
 
 <!--START_SECTION:activity-->
 
-<h1>📊 My GitHub Stats</h1>
+1. 💪 Opened PR [#1](https://github.com//DzCodeProgrammer/achievement-practice/pull/1) in [DzCodeProgrammer/achievement-practice](https://github.com//DzCodeProgrammer/achievement-practice)
 
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
