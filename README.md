@@ -467,6 +467,8 @@
 
 ---
 
+<!--START_SECTION:activity-->
+
 <h1>📊 My GitHub Stats</h1>
 
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
@@ -480,6 +482,8 @@
 | 🌙 Contribution Graph |
 |---|
 | [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+<!--END_SECTION:activity-->
 
 ---
 
