@@ -11,6 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 🐍 Generate Snake Animation
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -21,6 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 🚀 Push hasil snake ke branch output
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -29,8 +31,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 📊 Auto-update GitHub Activity ke README
       - name: Auto Update README Stats
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
+          GH_USERNAME: DzCodeProgrammer
           COMMIT_MSG: "🔄 Auto-update stats [skip ci]"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
