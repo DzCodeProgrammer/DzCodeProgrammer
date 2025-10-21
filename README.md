@@ -16,6 +16,8 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw — Closed an issue or PR within 5 minutes" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" title="Starstruck — Created a repository that has 16 stars" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="90" title="Heart On Your Sleeve — Reacted to something on GitHub" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" title="Public Sponsor — Sponsoring open source work via GitHub Sponsors" />
+</p>
 </p>
 
 <p align="center">
