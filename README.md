@@ -490,9 +490,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com//DzCodeProgrammer/achievement-practice/pull/1) in [DzCodeProgrammer/achievement-practice](https://github.com//DzCodeProgrammer/achievement-practice)
+1. 🗣 Commented on [#1](https://github.com//DzCodeProgrammer/achievement-practice/issues/1) in [DzCodeProgrammer/achievement-practice](https://github.com//DzCodeProgrammer/achievement-practice)
 
-| 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
+2. 💪 Opened PR [#1](https://github.com//DzCodeProgrammer/achievement-practice/pull/1) in [DzCodeProgrammer/achievement-practice](https://github.com//DzCodeProgrammer/achievement-practice)
 |---|---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
