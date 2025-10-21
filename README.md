@@ -9,12 +9,19 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" title="YOLO - Merged your own PR!" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO — Merged your own PR!" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark — Opened a pull request that has been merged!" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" title="Galaxy Brain — 2 accepted answers!" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" title="Pair Extraordinaire — Coauthored a pull request" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw — Closed an issue or PR within 5 minutes" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" title="Starstruck — Created a repository that has 16 stars" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="90" title="Heart On Your Sleeve — Reacted to something on GitHub" />
 </p>
 
 <p align="center">
-  <sub>More achievements coming soon...</sub>
+  <sub>More achievements coming soon as DzCorps grows stronger ⚡</sub>
 </p>
+
 
 ---
 
