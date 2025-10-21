@@ -6,6 +6,17 @@
   <img src="https://c.tenor.com/0Zc1Z9y0bT8AAAAC/anime-coding.gif" alt="banner" width="100%" />
 </p>
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" title="YOLO - Merged your own PR!" />
+</p>
+
+<p align="center">
+  <sub>More achievements coming soon...</sub>
+</p>
+
+---
 
 🔗 ![DzCodeProgrammer](https://komarev.com/ghpvc/?username=DzCodeProgrammer&color=blueviolet) <br>
 🔗 ![Profile Views](https://count.getloli.com/get/@:DzCodeProgrammer) <br>
@@ -26,6 +37,7 @@
 ---
 
 ## Table of Contents
+- [GitHub Achievements](#-github-achievement)
 - [About Me](#-about-me)
 - [Philosophy & Approach](#-philosophy--approach)
 - [Skills & Personality](#-skills--personality)
