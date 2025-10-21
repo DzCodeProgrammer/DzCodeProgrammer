@@ -490,6 +490,9 @@
 
 <!--START_SECTION:activity-->
 
+<h1>📊 My GitHub Stats</h1>
+
+| 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
