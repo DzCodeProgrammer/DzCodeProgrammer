@@ -490,7 +490,7 @@
 
 <!--START_SECTION:activity-->
 
-<h1>📊 My GitHub Stats</h1>
+1. 💪 Opened PR [#2](https://github.com//BaseteamProject/ecommerce_web/pull/2) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
 
 | 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
 |---|---|---|
