@@ -488,13 +488,9 @@
 
 ---
 
-<!--START_SECTION:activity-->
+| [![GitHub Streak for DzCodeProgrammer](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats for DzCodeProgrammer](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Languages for DzCodeProgrammer](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
+| --- | --- | --- |
 
-1. 💪 Opened PR [#3](https://github.com//BaseteamProject/ecommerce_web/pull/3) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
-
-2. 💪 Opened PR [#2](https://github.com//BaseteamProject/ecommerce_web/pull/2) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
-|---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
 | 🐍 Contribution Snake |
 |---|
@@ -503,8 +499,6 @@
 | 🌙 Contribution Graph |
 |---|
 | [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-
-<!--END_SECTION:activity-->
 
 ---
 
@@ -536,6 +530,16 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </h4>
+
+---
+
+<!--START_SECTION:activity-->
+
+1. 💪 Opened PR [#3](https://github.com//BaseteamProject/ecommerce_web/pull/3) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
+
+2. 💪 Opened PR [#2](https://github.com//BaseteamProject/ecommerce_web/pull/2) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
+
+<!--END_SECTION:activity-->
 
 ---
 
