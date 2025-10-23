@@ -490,9 +490,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com//BaseteamProject/ecommerce_web/pull/2) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
+1. 💪 Opened PR [#3](https://github.com//BaseteamProject/ecommerce_web/pull/3) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
 
-| 🔥 My Github Streak | 📈 My Github Stats | 💬 My Most Used Languages |
+2. 💪 Opened PR [#2](https://github.com//BaseteamProject/ecommerce_web/pull/2) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
 |---|---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/DzCodeProgrammer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/DzCodeProgrammer) |
 
