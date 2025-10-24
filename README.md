@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <sub>More achievements coming soon as DzCorps grows stronger ⚡</sub>
+  <sub>More achievements coming soon as DzCodeProgrammer grows stronger ⚡</sub>
 </p>
 
 
