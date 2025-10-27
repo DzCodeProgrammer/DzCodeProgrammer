@@ -535,9 +535,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com//DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com//DzCodeProgrammer/DzCodeProgrammer)
+1. 💪 Opened PR [#4](https://github.com//BaseteamProject/ecommerce_web/pull/4) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
 
-2. 💪 Opened PR [#3](https://github.com//BaseteamProject/ecommerce_web/pull/3) in [BaseteamProject/ecommerce_web](https://github.com//BaseteamProject/ecommerce_web)
+2. ❗️ Opened issue [#1](https://github.com//DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com//DzCodeProgrammer/DzCodeProgrammer)
 
 <!--END_SECTION:activity-->
 
