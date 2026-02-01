@@ -496,11 +496,13 @@
 |---|
 | ![snake dark svg](https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg#gh-dark-mode-only) |
 
+| 🚀 Space Shooter Game |
+|---|
+| ![My GitHub Game](game.gif) |
+
 | 🌙 Contribution Graph |
 |---|
 | [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=151515&color=c1c0c1&line=ffffff&point=50fa7b&area=true&hide_border=true&cache_seconds=1800)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-
-![My GitHub Game](game.gif)
 
 ---
 
