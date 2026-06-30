@@ -19,7 +19,7 @@ jobs:
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk@v3
         with:
-          github_user_name: DzCorps
+          github_user_name: DzCodeProgrammer
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
