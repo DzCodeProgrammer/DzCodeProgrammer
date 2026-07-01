@@ -80,9 +80,19 @@
 - [Now](#-now)
 - [Philosophy & Approach](#-philosophy--approach)
 - [Skills & Personality](#-skills--personality)
+- [Communication](#communication)
 - [Core Stack](#-core-stack)
 - [Teknologi yang Saya Pakai](#teknologi-pakai)
+  - [Frontend & UI](#-frontend--ui)
+  - [Backend & API](#-backend--api)
+  - [Database & Auth](#-database--auth)
+  - [AI, Computer Vision & Data](#-ai-computer-vision--data)
+  - [AI Coding & Vibe Workflow](#ai-coding-workflow)
+  - [DevOps, Tools & Deployment](#-devops-tools--deployment)
 - [Technologies](#-technologies)
+  - [Programming Languages](#-programming-languages)
+  - [AI, LLMs & MLOps](#-ai-llms--mlops)
+  - [DevOps, Tools & Observability](#-devops-tools--observability)
 - [GitHub Stats](#-github-stats)
 - [Featured Projects](#-featured-projects)
 - [Developer Life](#-developer-life)
@@ -128,6 +138,7 @@
 ```text
 🎯 Learning    → React, TypeScript, FastAPI, AI/Computer Vision, full-stack architecture
 🛠️ Building    → E-Commerce, AI CCTV Monitoring, cosmic-goal-engine, open-source contributions
+🤖 Exploring   → AI-assisted coding, Claude, Cursor, Codex, prompt engineering, vibe coding
 🤝 Open to     → Collaborations, code reviews, and meaningful tech discussions
 ☕ Powered by  → Lo-fi beats, curiosity, and late-night debugging sessions
 ```
@@ -212,6 +223,14 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
 ---
 
 <h3 id="teknologi-pakai">🛠️ Teknologi yang Saya Pakai</h3>
@@ -219,7 +238,7 @@
 <p>Berdasarkan proyek aktif di GitHub — <i>HTML, CSS, JS</i> sebagai fondasi, plus stack modern di bawah ini:</p>
 
 <details open>
-<summary><b>🌐 Frontend & UI</b></summary>
+<summary id="-frontend--ui"><b>🌐 Frontend & UI</b></summary>
 <br>
 
 <p>
@@ -246,7 +265,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & API</b></summary>
+<summary id="-backend--api"><b>⚙️ Backend & API</b></summary>
 <br>
 
 <p>
@@ -265,7 +284,7 @@
 </details>
 
 <details open>
-<summary><b>🗃️ Database & Auth</b></summary>
+<summary id="-database--auth"><b>🗃️ Database & Auth</b></summary>
 <br>
 
 <p>
@@ -281,7 +300,7 @@
 </details>
 
 <details open>
-<summary><b>🤖 AI, Computer Vision & Data</b></summary>
+<summary id="-ai-computer-vision--data"><b>🤖 AI, Computer Vision & Data</b></summary>
 <br>
 
 <p>
@@ -293,12 +312,43 @@
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6A00?style=for-the-badge"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 </details>
 
 <details open>
-<summary><b>🚀 DevOps, Tools & Deployment</b></summary>
+<summary id="ai-coding-workflow"><b>🧠 AI Coding & Vibe Workflow</b></summary>
+<br>
+
+<p>
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge"/>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img alt="LM Studio" src="https://img.shields.io/badge/LM_Studio-111827?style=for-the-badge"/>
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-7C4DFF?style=for-the-badge"/>
+  <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe_Coding-FF4FD8?style=for-the-badge"/>
+</p>
+
+| Workflow | Cara Saya Pakai |
+| --- | --- |
+| 🧭 **Plan with AI** | Memecah ide besar menjadi task kecil, roadmap, dan prioritas build. |
+| ⚡ **Vibe Coding** | Cepat membuat prototype, lalu tetap review logic, struktur, dan edge case. |
+| 🧪 **AI Pair Review** | Memakai AI untuk cari bug, refactor, test idea, dan alternatif solusi. |
+| 📚 **Research Assist** | Membandingkan dokumentasi, API, pattern, dan pendekatan teknis sebelum eksekusi. |
+| 🧩 **Context Engineering** | Menulis prompt jelas, memberi constraint, dan menjaga konteks proyek tetap rapi. |
+
+</details>
+
+<details open>
+<summary id="-devops-tools--deployment"><b>🚀 DevOps, Tools & Deployment</b></summary>
 <br>
 
 <p>
@@ -326,7 +376,7 @@
 <h3 id="technologies">💻 Technologies</h3>
 
 <details open>
-<summary><b>🧠 Programming Languages</b></summary>
+<summary id="-programming-languages"><b>🧠 Programming Languages</b></summary>
 <br>
 
 <p>
@@ -488,11 +538,18 @@
 </details>
 
 <details>
-<summary><b>🤖 AI, LLMs & MLOps</b></summary>
+<summary id="-ai-llms--mlops"><b>🤖 AI, LLMs & MLOps</b></summary>
 <br>
 
 <p>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge"/>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface"/>
@@ -508,7 +565,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ DevOps, Tools & Observability</b></summary>
+<summary id="-devops-tools--observability"><b>🛠️ DevOps, Tools & Observability</b></summary>
 <br>
 
 <p>
