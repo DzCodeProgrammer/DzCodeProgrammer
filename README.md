@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/dzcode-profile-scan.svg" alt="DzCodeProgrammer VISUAL.MAP" width="420"/>
+  <img src="./assets/dzcode-profile-scan.svg" alt="DzCodeProgrammer VISUAL.MAP terminal profile" width="900"/>
 </p>
 
 ---
