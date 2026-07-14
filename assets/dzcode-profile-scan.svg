@@ -1,0 +1,110 @@
+<svg width="1000" height="470" viewBox="0 0 1000 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DzCodeProgrammer Profile Scan</title>
+  <desc id="desc">Terminal inspired GitHub profile scan card for DzCodeProgrammer.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1000" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset=".48" stop-color="#8A2BE2"/>
+      <stop offset="1" stop-color="#00FF9C"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101927"/>
+      <stop offset="1" stop-color="#070B12"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00F5FF" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" stroke="#1E9BFF" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect x="28" y="64" width="944" height="350" rx="12"/>
+    </clipPath>
+    <style>
+      .mono{font-family:Consolas,Monaco,'Courier New',monospace}
+      .small{font-size:13px}
+      .tiny{font-size:11px}
+      .ascii{font-size:7px}
+      .label{fill:#00E5FF;font-weight:700}
+      .value{fill:#F5F7FF;font-weight:700}
+      .muted{fill:#77839A}
+      .green{fill:#00FF9C;font-weight:700}
+      .violet{fill:#C77DFF;font-weight:700}
+      .line{stroke:#1DA1F2;stroke-opacity:.35}
+      @keyframes sweep{0%{transform:translateY(-90px)}100%{transform:translateY(410px)}}
+      @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:.25}}
+      #scanline{animation:sweep 4.5s linear infinite}
+      #cursor{animation:blink 1s steps(1,end) infinite}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="468" rx="18" fill="url(#panel)" stroke="url(#frame)" stroke-width="2"/>
+  <rect x="16" y="18" width="968" height="434" rx="14" fill="#07101B" stroke="#123A54"/>
+  <rect x="28" y="64" width="944" height="350" rx="12" fill="#071522" stroke="#0BA7C7" stroke-opacity=".72"/>
+  <rect x="28" y="64" width="944" height="350" rx="12" fill="url(#grid)"/>
+
+  <circle cx="44" cy="42" r="7" fill="#FF5F56"/>
+  <circle cx="64" cy="42" r="7" fill="#FFBD2E"/>
+  <circle cx="84" cy="42" r="7" fill="#27C93F"/>
+  <text x="500" y="44" text-anchor="middle" class="mono tiny muted">dzcode@github ~ % ./profile-scan --live</text>
+  <circle cx="932" cy="41" r="4" fill="#FF4D6D"/>
+  <text x="944" y="45" class="mono tiny value">SCANNING</text>
+
+  <g clip-path="url(#clip)">
+    <rect id="scanline" x="28" y="64" width="944" height="72" fill="url(#scan)" opacity=".95"/>
+  </g>
+
+  <text x="52" y="88" class="mono tiny label">VISUAL.MAP</text>
+  <rect x="48" y="100" width="405" height="292" rx="10" fill="#08101A" stroke="#00D4FF" stroke-opacity=".65"/>
+  <g class="mono ascii" fill="#00D4FF" filter="url(#glow)" opacity=".95">
+    <text x="76" y="134">.............::::::::::::::-----======++++++======-----::::::::::::::.............</text>
+    <text x="76" y="149">.........::::::::::::----====+++++************+++++====----::::::::::::.........</text>
+    <text x="76" y="164">......:::::::::---===++++***######################***++++===---:::::::::......</text>
+    <text x="76" y="179">....:::::::---==+++***##########%%%%%%%%%%%%##########***+++==---:::::::....</text>
+    <text x="76" y="194">...::::::--==++**#######%%%%%%@@@@@@@@@@@@%%%%%%#######**++==--::::::...</text>
+    <text x="76" y="209">..:::::--==++**#####%%%%%@@@@@@@@@@@@@@@@@@@@%%%%%#####**++==--:::::..</text>
+    <text x="76" y="224">..::::--==++**####%%%%@@@@@@@@@@@%%%%@@@@@@@@@@@%%%%####**++==--::::..</text>
+    <text x="76" y="239">..::::--==++**####%%%@@@@@@@@@@@%####%@@@@@@@@@@@%%%####**++==--::::..</text>
+    <text x="76" y="254">..::::--==++**####%%%%@@@@@@@@@@%%%%%%@@@@@@@@@@%%%%####**++==--::::..</text>
+    <text x="76" y="269">..:::::--==++**#####%%%%%@@@@@@@@@@@@@@@@@@@@%%%%%#####**++==--:::::..</text>
+    <text x="76" y="284">...::::::--==++**#######%%%%%%@@@@@@@@@@@@%%%%%%#######**++==--::::::...</text>
+    <text x="76" y="299">....:::::::---==+++***##########%%%%%%%%%%%%##########***+++==---:::::::....</text>
+    <text x="76" y="314">......:::::::::---===++++***######################***++++===---:::::::::......</text>
+    <text x="76" y="329">.........::::::::::::----====+++++************+++++====----::::::::::::.........</text>
+    <text x="76" y="344">.............::::::::::::::-----======++++++======-----::::::::::::::.............</text>
+  </g>
+  <path d="M102 360 C165 330 315 331 402 363" stroke="#8A2BE2" stroke-width="2" stroke-opacity=".65"/>
+  <path d="M118 378 C196 347 303 348 384 380" stroke="#00FF9C" stroke-width="2" stroke-opacity=".55"/>
+
+  <text x="485" y="88" class="mono tiny label">SYSTEM.INFO</text>
+  <line x1="580" y1="84" x2="918" y2="84" class="line"/>
+  <g class="mono small">
+    <text x="500" y="116"><tspan class="label">Subject</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">DzCodeProgrammer</tspan></text>
+    <text x="500" y="138"><tspan class="label">Role</tspan><tspan class="muted"> ........................... </tspan><tspan class="value">Web Developer + Creative Builder</tspan></text>
+    <text x="500" y="160"><tspan class="label">Origin</tspan><tspan class="muted"> ......................... </tspan><tspan class="value">Indonesia</tspan></text>
+    <text x="500" y="182"><tspan class="label">Status</tspan><tspan class="muted"> ......................... </tspan><tspan class="green">Open to Collaborate</tspan></text>
+    <text x="500" y="204"><tspan class="label">Focus</tspan><tspan class="muted"> .......................... </tspan><tspan class="violet">Full-Stack &amp; AI</tspan></text>
+  </g>
+
+  <line x1="500" y1="229" x2="918" y2="229" class="line"/>
+  <g class="mono small">
+    <text x="500" y="255"><tspan class="label">Core.Frontend</tspan><tspan class="muted"> ................. </tspan><tspan class="value">HTML, CSS, JavaScript, TypeScript</tspan></text>
+    <text x="500" y="277"><tspan class="label">Core.Framework</tspan><tspan class="muted"> ................ </tspan><tspan class="value">React, Vite, Tailwind CSS</tspan></text>
+    <text x="500" y="299"><tspan class="label">Core.Backend</tspan><tspan class="muted"> ................. </tspan><tspan class="value">PHP, Node.js, Laravel, FastAPI</tspan></text>
+    <text x="500" y="321"><tspan class="label">Core.Database</tspan><tspan class="muted"> ................ </tspan><tspan class="value">MySQL, PostgreSQL, Supabase</tspan></text>
+    <text x="500" y="343"><tspan class="label">Core.Tools</tspan><tspan class="muted"> ................... </tspan><tspan class="value">GitHub, Codex, Cursor, Claude</tspan></text>
+  </g>
+
+  <line x1="500" y1="368" x2="918" y2="368" class="line"/>
+  <text x="500" y="393" class="mono small"><tspan class="green">Live Stats</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">GitHub scan ready</tspan><tspan id="cursor" class="label">_</tspan></text>
+  <text x="500" y="419" class="mono tiny muted">See achievements, stack, projects, and developer life below.</text>
+</svg>

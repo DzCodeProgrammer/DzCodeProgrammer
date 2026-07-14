@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/dzcode-profile-scan.svg" alt="DzCodeProgrammer live profile scan" width="100%"/>
+</p>
+
+---
+
 <h2 align="center" id="github-achievements">🏆 GitHub Achievements</h2>
 
 <p align="center">
