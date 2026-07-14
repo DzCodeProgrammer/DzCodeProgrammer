@@ -23,7 +23,12 @@
 ---
 
 <p align="center">
-  <img src="./assets/dzcode-profile-scan.svg" alt="DzCodeProgrammer VISUAL.MAP terminal profile" width="900"/>
+  <a href="https://github.com/DzCodeProgrammer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dark.svg"/>
+      <img alt="DzCodeProgrammer GitHub Profile README" src="./light.svg" width="100%"/>
+    </picture>
+  </a>
 </p>
 
 ---
