@@ -763,7 +763,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/BaseteamProject/ecommerce_web/pull/5) in [BaseteamProject/ecommerce_web](https://github.com/BaseteamProject/ecommerce_web)
+1. ❗️ Opened issue [#1](https://github.com//Isasmkti/weixies-nuxt/issues/1) in [Isasmkti/weixies-nuxt](https://github.com//Isasmkti/weixies-nuxt)
 
 2. 💪 Opened PR [#4](https://github.com/BaseteamProject/ecommerce_web/pull/4) in [BaseteamProject/ecommerce_web](https://github.com/BaseteamProject/ecommerce_web)
 
