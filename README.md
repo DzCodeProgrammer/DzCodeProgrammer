@@ -94,14 +94,20 @@
 - [Philosophy & Approach](#philosophy)
 - [Skills & Personality](#skills)
 - [Communication](#communication)
+- [Soft Skills](#soft-skills)
 - [Core Stack](#core-stack)
 - [Teknologi yang Saya Pakai](#teknologi-pakai)
 - [Toolkit Catalog](#technologies)
 - [GitHub Stats](#github-stats)
 - [Featured Projects](#featured-projects)
 - [Let's Collaborate](#collaborate)
+- [Services](#services)
 - [Developer Life](#developer-life)
+- [Daily Dev Flow](#daily-dev-flow)
+- [Fun Facts](#fun-facts)
 - [Hobbies](#hobbies)
+- [Favorite Stack Combos](#favorite-combos)
+- [Support](#support)
 - [Contact & Connect](#contact)
 - [License](#license)
 
@@ -215,6 +221,18 @@
   🔸 I listen before I respond — every thought has value.<br>
   🔸 I believe real tech communication means <b>sharing clarity, not just code</b>.
 </p>
+
+---
+
+<h3 id="soft-skills">🧭 Soft Skills</h3>
+
+| Skill | How it shows up |
+| --- | --- |
+| 🎯 **Focus** | Break big goals into small shippable tasks |
+| 🧠 **Curiosity** | Keep exploring frameworks, AI tools, and new patterns |
+| 🤝 **Collaboration** | Open to PRs, reviews, and team discussion |
+| 📝 **Documentation** | Prefer readable commits, READMEs, and clear notes |
+| 🔁 **Iteration** | Build → review → improve continuously |
 
 ---
 
@@ -666,6 +684,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=0d1117&color=c9d1d9&line=8000FF&point=50fa7b&area=true&hide_border=true&cache_seconds=1800" alt="Contribution Graph" width="100%"/>
 </p>
 
+<details>
+<summary><b>🏆 Extra profile cards</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzCodeProgrammer&theme=radical" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzCodeProgrammer&theme=radical" alt="Repos per Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DzCodeProgrammer&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DzCodeProgrammer&theme=radical&utcOffset=7" alt="Productive Time (UTC+7)"/>
+</p>
+
+</details>
+
 ---
 
 <h3 id="featured-projects">📦 Featured Projects</h3>
@@ -711,6 +745,20 @@
 
 ---
 
+<h3 id="services">🛠️ Services</h3>
+
+<p>Selain belajar & open-source, saya siap bantu untuk:</p>
+
+| Service | Detail |
+| --- | --- |
+| 🖥️ **Landing / Portfolio Website** | Desain + implementasi UI modern (HTML/CSS/JS/React) |
+| 🛒 **Web App MVP** | E-commerce, dashboard, auth, CRUD full-stack |
+| 🤖 **AI / CV Prototype** | Face recognition, monitoring dashboard, automation idea |
+| 🔧 **Bug Fix & Refactor** | Perapihan kode, performance kecil, structure cleanup |
+| 📚 **Mentoring ringan** | Diskusi stack, struktur project, vibe coding workflow |
+
+---
+
 <h3 id="developer-life">💻 Developer Life</h3>
 
 <p>
@@ -730,6 +778,37 @@
 
 ---
 
+<h3 id="daily-dev-flow">⏱️ Daily Dev Flow</h3>
+
+```text
+01  Scan ideas / notes from journal
+02  Pick one small shippable task
+03  Plan with AI → draft approach
+04  Build (Cursor / VS Code + Git)
+05  Review logic & edge cases
+06  Commit · Document · Push
+07  Lo-fi cooldown · capture next ideas
+```
+
+| Timebox | Focus |
+| --- | --- |
+| 🌅 Morning | Learning / reading docs / roadmap tasks |
+| ☀️ Afternoon | Feature building & feature work |
+| 🌙 Night | Experiments, AI prototypes, open-source PRs |
+
+---
+
+<h3 id="fun-facts">✨ Fun Facts</h3>
+
+- Prefers **depth over noise** in tech discussions.
+- Treats every bug as a **teacher**, not an enemy.
+- Often prototypes with **vibe coding**, then hardens with review.
+- Dreams of building an **IoT + AI lab** someday.
+- Believes beautiful UI deserves **clean code** underneath.
+- Lo-fi / ambient music is the unofficial compile soundtrack.
+
+---
+
 <h2 id="hobbies">☕ Hobbies</h2>
 
 | | |
@@ -740,6 +819,32 @@
 | 🎮 | **Gaming** — not only for fun, but as study of logic, interaction, and creativity. |
 | 🎧 | **Lo-fi & ambient music** — keeping rhythm and calm while coding. |
 | 💭 | **Journaling ideas** — capturing thoughts that might become future projects. |
+
+---
+
+<h3 id="favorite-combos">🧪 Favorite Stack Combos</h3>
+
+| Combo | Digunakan untuk |
+| --- | --- |
+| **React + Vite + TypeScript + Tailwind + Supabase** | Product UI & e-commerce experiments |
+| **Python + FastAPI + OpenCV + TensorFlow** | AI CCTV / computer vision dashboards |
+| **HTML + CSS + JavaScript** | Learning labs & quick converters |
+| **Cursor + Claude / ChatGPT + GitHub** | Plan → code → review → ship |
+
+---
+
+<h3 id="support">💖 Support</h3>
+
+<p>
+  Jika karya atau eksperimen saya bermanfaat, kamu bisa mendukung lewat
+  <a href="https://github.com/sponsors/DzCodeProgrammer"><b>GitHub Sponsors</b></a>
+  — atau cukup tinggalkan ⭐ di repo yang kamu sukai. Terima kasih!
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/DzCodeProgrammer"><img src="https://img.shields.io/badge/Sponsor-DzCodeProgrammer-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
+  <a href="https://github.com/DzCodeProgrammer?tab=repositories"><img src="https://img.shields.io/badge/Star_a_Repo-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="Star a Repo"/></a>
+</p>
 
 ---
 
