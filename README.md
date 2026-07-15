@@ -98,7 +98,6 @@
 - [Core Stack](#core-stack)
 - [Teknologi yang Saya Pakai](#teknologi-pakai)
 - [Toolkit Catalog](#technologies)
-- [GitHub Stats](#github-stats)
 - [Featured Projects](#featured-projects)
 - [Let's Collaborate](#collaborate)
 - [Services](#services)
@@ -128,6 +127,7 @@
 - [Books & Ideas Shelf](#books-shelf)
 - [Bucket List Tech](#bucket-list-tech)
 - [Arcade Corner](#arcade-corner)
+- [GitHub Stats](#github-stats)
 - [Partner With Me](#partner-with-me)
 - [Support](#support)
 - [Contact & Connect](#contact)
@@ -658,73 +658,6 @@
 
 ---
 
-<h3 id="github-stats">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DzCodeProgrammer&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&border=8000FF&ring=8000FF&fire=8000FF&currStreakLabel=8000FF&cache_seconds=1800" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzCodeProgrammer&theme=radical" alt="Profile Details" width="100%"/>
-</p>
-
-<details>
-<summary><b>📈 Custom Charts</b></summary>
-<br>
-
-<p>
-  Charts di-generate otomatis oleh workflow <code>generate-charts</code> ke folder <code>assets/</code>.
-  Jika gambar belum muncul, jalankan workflow tersebut di Actions terlebih dahulu.
-</p>
-
-</details>
-
-<h4 align="center">🐍 Contribution Snake</h4>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg" alt="Contribution Snake"/>
-  </picture>
-</p>
-
-<h4 align="center">🚀 Space Shooter Game</h4>
-
-<p align="center">
-  <img src="game.gif" alt="GitHub Space Shooter Game"/>
-</p>
-
-<h4 align="center">🌙 Contribution Graph</h4>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=0d1117&color=c9d1d9&line=8000FF&point=50fa7b&area=true&hide_border=true&cache_seconds=1800" alt="Contribution Graph" width="100%"/>
-</p>
-
-<details>
-<summary><b>🏆 Extra profile cards</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzCodeProgrammer&theme=radical" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzCodeProgrammer&theme=radical" alt="Repos per Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DzCodeProgrammer&theme=radical" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DzCodeProgrammer&theme=radical&utcOffset=7" alt="Productive Time (UTC+7)"/>
-</p>
-
-</details>
-
----
-
 <h3 id="featured-projects">📦 Featured Projects</h3>
 
 | Project | Description | Tech Stack | Status |
@@ -1195,7 +1128,7 @@ chore: bump deps for vite project
 <h3 id="arcade-corner">🕹️ Arcade Corner</h3>
 
 <p>
-  Karena developer life butuh play too — ada Space Shooter dari contribution graph di atas.
+  Karena developer life butuh play too — lihat juga Space Shooter & contribution visuals di section <b>GitHub Stats</b> tepat di bawah.
   Gaming juga jadi laboratorium: input latency, feedback loops, progression design.
 </p>
 
@@ -1205,6 +1138,73 @@ chore: bump deps for vite project
 | Save point | Good commits |
 | New ability | New framework skill |
 | Co-op raid | Open-source collaboration |
+
+---
+
+<h3 id="github-stats">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DzCodeProgrammer&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DzCodeProgrammer&theme=tokyonight&background=000000C6&border=8000FF&ring=8000FF&fire=8000FF&currStreakLabel=8000FF&cache_seconds=1800" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DzCodeProgrammer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzCodeProgrammer&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzCodeProgrammer&theme=radical" alt="Profile Details" width="100%"/>
+</p>
+
+<details>
+<summary><b>📈 Custom Charts</b></summary>
+<br>
+
+<p>
+  Charts di-generate otomatis oleh workflow <code>generate-charts</code> ke folder <code>assets/</code>.
+  Jika gambar belum muncul, jalankan workflow tersebut di Actions terlebih dahulu.
+</p>
+
+</details>
+
+<h4 align="center">🐍 Contribution Snake</h4>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/DzCodeProgrammer/DzCodeProgrammer/output/snake-dark.svg" alt="Contribution Snake"/>
+  </picture>
+</p>
+
+<h4 align="center">🚀 Space Shooter Game</h4>
+
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter Game"/>
+</p>
+
+<h4 align="center">🌙 Contribution Graph</h4>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzCodeProgrammer&bg_color=0d1117&color=c9d1d9&line=8000FF&point=50fa7b&area=true&hide_border=true&cache_seconds=1800" alt="Contribution Graph" width="100%"/>
+</p>
+
+<details>
+<summary><b>🏆 Extra profile cards</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzCodeProgrammer&theme=radical" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzCodeProgrammer&theme=radical" alt="Repos per Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DzCodeProgrammer&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DzCodeProgrammer&theme=radical&utcOffset=7" alt="Productive Time (UTC+7)"/>
+</p>
+
+</details>
 
 ---
 
