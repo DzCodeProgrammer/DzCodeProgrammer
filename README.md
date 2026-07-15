@@ -16,8 +16,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Surabaya%2C%20Indonesia%20🇮🇩-FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-8000FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hireable-Yes-0E7AFE?style=flat-square"/>
 </p>
 
 ---
@@ -87,29 +88,22 @@
 ## 📑 Table of Contents
 
 - [GitHub Achievements](#github-achievements)
-- [About Me](#-about-me)
-- [Now](#-now)
-- [Philosophy & Approach](#-philosophy--approach)
-- [Skills & Personality](#-skills--personality)
+- [About Me](#about-me)
+- [Now](#now)
+- [Roadmap 2026](#roadmap-2026)
+- [Philosophy & Approach](#philosophy)
+- [Skills & Personality](#skills)
 - [Communication](#communication)
-- [Core Stack](#-core-stack)
+- [Core Stack](#core-stack)
 - [Teknologi yang Saya Pakai](#teknologi-pakai)
-  - [Frontend & UI](#-frontend--ui)
-  - [Backend & API](#-backend--api)
-  - [Database & Auth](#-database--auth)
-  - [AI, Computer Vision & Data](#-ai-computer-vision--data)
-  - [AI Coding & Vibe Workflow](#ai-coding-workflow)
-  - [DevOps, Tools & Deployment](#-devops-tools--deployment)
-- [Technologies](#-technologies)
-  - [Programming Languages](#-programming-languages)
-  - [AI, LLMs & MLOps](#-ai-llms--mlops)
-  - [DevOps, Tools & Observability](#-devops-tools--observability)
-- [GitHub Stats](#-github-stats)
-- [Featured Projects](#-featured-projects)
-- [Developer Life](#-developer-life)
-- [Hobbies](#-hobbies)
-- [Contact & Connect](#-contact--connect)
-- [License](#-license)
+- [Toolkit Catalog](#technologies)
+- [GitHub Stats](#github-stats)
+- [Featured Projects](#featured-projects)
+- [Let's Collaborate](#collaborate)
+- [Developer Life](#developer-life)
+- [Hobbies](#hobbies)
+- [Contact & Connect](#contact)
+- [License](#license)
 
 ---
 
@@ -120,8 +114,14 @@
 
 <p>
   Welcome to my <b>GitHub Profile!</b><br>
-  I'm <b>DzCodeProgrammer</b> — a passionate learner and technology enthusiast from
-  <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b> 🇮🇩.
+  I'm <b>DzCoder</b> (<code>@DzCodeProgrammer</code>) — a passionate learner and technology enthusiast from
+  <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Surabaya, Jawa Timur, Indonesia</b> 🇮🇩.
+</p>
+
+<p>
+  🗣️ <b>Languages:</b> Bahasa Indonesia · English<br>
+  🏢 <b>Org:</b> DzCorporations<br>
+  🌐 <b>Portfolio:</b> <a href="https://3-d-portolio-for-me.vercel.app/">3-d-portolio-for-me.vercel.app</a>
 </p>
 
 ---
@@ -135,10 +135,10 @@
 </p>
 
 <p>
-  💻 Passionate about <b>front-end and back-end web development</b> (HTML, CSS, JS, PHP, TypeScript, and more).<br>
+  💻 Passionate about <b>front-end and back-end web development</b> (HTML, CSS, JS, PHP, TypeScript, Python, and more).<br>
   🧠 I enjoy experimenting — transforming abstract ideas into functional, interactive systems and improving them continuously.<br>
   🎨 For me, design and logic are inseparable — beautiful UI deserves clean, efficient code.<br>
-  🌱 Currently focusing on <b>full-stack architecture, backend optimization, and scalable systems</b>.<br>
+  🌱 Currently focusing on <b>full-stack architecture, AI/computer vision apps, and scalable systems</b>.<br>
   🌍 My ultimate goal: to create technology that feels human, purposeful, and timeless.
 </p>
 
@@ -148,11 +148,24 @@
 
 ```text
 🎯 Learning    → React, TypeScript, FastAPI, AI/Computer Vision, full-stack architecture
-🛠️ Building    → E-Commerce, AI CCTV Monitoring, cosmic-goal-engine, open-source contributions
+🛠️ Building    → E-Commerce, AI CCTV Monitoring, cosmic-goal-engine, Ads-Blocker
 🤖 Exploring   → AI-assisted coding, Claude, Cursor, Codex, prompt engineering, vibe coding
-🤝 Open to     → Collaborations, code reviews, and meaningful tech discussions
+🤝 Open to     → Collaborations, freelance-friendly projects, code reviews
 ☕ Powered by  → Lo-fi beats, curiosity, and late-night debugging sessions
 ```
+
+---
+
+<h3 id="roadmap-2026">🗺️ Roadmap 2026</h3>
+
+| Goal | Status |
+| --- | --- |
+| Strengthen full-stack delivery (React + FastAPI / Laravel) | 🔄 In progress |
+| Ship polished AI CCTV monitoring features | 🔄 In progress |
+| Contribute more meaningful open-source PRs | 🔄 In progress |
+| Improve system design & backend scalability skills | 🌱 Learning |
+| Grow portfolio case studies with real demos | 🌱 Planning |
+| Unlock next GitHub achievement tiers (Pull Shark / Starstruck) | 🎯 Target |
 
 ---
 
@@ -288,7 +301,6 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-7C4DFF?style=for-the-badge"/>
 </p>
 
@@ -303,9 +315,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 </details>
@@ -321,10 +330,7 @@
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pillow" src="https://img.shields.io/badge/Pillow-FFE873?style=for-the-badge"/>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6A00?style=for-the-badge"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
@@ -379,15 +385,21 @@
 </details>
 
 <p align="center">
-  <sub>📂 Digunakan di proyek: <a href="https://github.com/DzCodeProgrammer/E-Commerce">E-Commerce</a> · <a href="https://github.com/DzCodeProgrammer/cosmic-goal-engine">cosmic-goal-engine</a> · <a href="https://github.com/DzCodeProgrammer/AI-Powered-CCTV-Monitoring-Web-Systems">AI CCTV</a> · <a href="https://github.com/DzCodeProgrammer/100-days-of-javascript">100-days-of-javascript</a> · <a href="https://3-d-portolio-for-me.vercel.app/">Portfolio</a></sub>
+  <sub>📂 Digunakan di proyek: <a href="https://github.com/DzCodeProgrammer/E-Commerce">E-Commerce</a> · <a href="https://github.com/DzCodeProgrammer/cosmic-goal-engine">cosmic-goal-engine</a> · <a href="https://github.com/DzCodeProgrammer/AI-Powered-CCTV-Monitoring-Web-Systems">AI CCTV</a> · <a href="https://github.com/DzCodeProgrammer/Ads-Blocker">Ads-Blocker</a> · <a href="https://github.com/DzCodeProgrammer/100-days-of-javascript">100-days-of-javascript</a> · <a href="https://3-d-portolio-for-me.vercel.app/">Portfolio</a></sub>
 </p>
 
 ---
 
-<h3 id="technologies">💻 Technologies</h3>
+<h3 id="technologies">🧰 Toolkit Catalog</h3>
 
-<details open>
-<summary id="-programming-languages"><b>🧠 Programming Languages</b></summary>
+<p>
+  <b>Catatan kejujuran:</b> section ini berisi tools yang saya <i>pakai, pelajari, atau tertarik eksplorasi</i>.
+  Yang sudah terbukti di repo aktif ada di <a href="#teknologi-pakai"><b>Teknologi yang Saya Pakai</b></a>.
+  Badge di bawah <b>bukan</b> klaim expertise penuh untuk setiap item.
+</p>
+
+<details>
+<summary id="-programming-languages"><b>🧠 Languages (used in repos)</b></summary>
 <br>
 
 <p>
@@ -397,31 +409,15 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img alt="Scala" src="https://img.shields.io/badge/Scala-DD0031?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir"/>
-  <img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang"/>
-  <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia"/>
-  <img alt="F#" src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp"/>
-  <img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge"/>
-  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl"/>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img alt="PLpgSQL" src="https://img.shields.io/badge/PLpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 </details>
 
 <details>
-<summary><b>🎨 Frontend Frameworks & Libraries</b></summary>
+<summary><b>🎨 Frontend (interest + practice)</b></summary>
 <br>
 
 <p>
@@ -534,7 +530,7 @@
 </details>
 
 <details>
-<summary><b>📨 Messaging & Streaming</b></summary>
+<summary><b>📨 Messaging & Streaming (learning interest)</b></summary>
 <br>
 
 <p>
@@ -638,12 +634,12 @@
 </p>
 
 <details>
-<summary><b>📈 Custom Charts (auto-generated daily)</b></summary>
+<summary><b>📈 Custom Charts</b></summary>
 <br>
 
-<p align="center">
-  <img src="assets/top-langs.png" alt="Top Languages Chart" width="48%"/>
-  <img src="assets/commits-30days.png" alt="Commits Last 30 Days" width="48%"/>
+<p>
+  Charts di-generate otomatis oleh workflow <code>generate-charts</code> ke folder <code>assets/</code>.
+  Jika gambar belum muncul, jalankan workflow tersebut di Actions terlebih dahulu.
 </p>
 
 </details>
@@ -679,17 +675,38 @@
 | 🛒 [**E-Commerce**](https://github.com/DzCodeProgrammer/E-Commerce) | Full-stack e-commerce web app | React, Vite, TypeScript, Tailwind, Supabase | ✅ Active |
 | 🌌 [**cosmic-goal-engine**](https://github.com/DzCodeProgrammer/cosmic-goal-engine) | Goal tracking & productivity engine | React, Vite, TypeScript, shadcn/ui | ✅ Active |
 | 📹 [**AI CCTV Monitoring**](https://github.com/DzCodeProgrammer/AI-Powered-CCTV-Monitoring-Web-Systems) | Real-time face recognition & security dashboard | Python, FastAPI, OpenCV, TensorFlow | 🚧 In Progress |
+| 🛡️ [**Ads-Blocker**](https://github.com/DzCodeProgrammer/Ads-Blocker) | Browser ad-blocking experiment | Python, JavaScript | ✅ Active |
 | 📜 [**100-days-of-javascript**](https://github.com/DzCodeProgrammer/100-days-of-javascript) | Daily JavaScript learning journey | HTML, CSS, JavaScript | 📚 Learning |
 | 🔄 [**Converter-Site**](https://github.com/DzCodeProgrammer/Converter-Site) | Online file format converter tool | JavaScript, CSS | ✅ Done |
 | 🌐 [**Portfolio**](https://3-d-portolio-for-me.vercel.app/) | 3D personal portfolio website | HTML, CSS, JS, Vercel | ✅ Live |
 | 🛍️ [**E-Commerce Web**](https://github.com/BaseteamProject/ecommerce_web) | Team e-commerce contribution | Full-Stack | 🤝 Contributing |
-| 🧠 **NeuraLink Web** | Smart AI front-end integration demo | React, AI APIs | 🚧 In Progress |
-| ⚙️ **QuantumBot** | Automated micro-AI chat experiment | Python, LangChain | 🧪 Prototype |
 
 <p align="center">
   <a href="https://github.com/DzCodeProgrammer?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
+</p>
+
+---
+
+<h3 id="collaborate">🤝 Let's Collaborate</h3>
+
+<p>
+  Saya <b>open to collaborate</b> dan <b>hireable</b> untuk proyek yang jelas dan bermakna —
+  terutama full-stack web, AI prototypes, dan open-source contributions.
+</p>
+
+| I can help with | Let's talk about |
+| --- | --- |
+| 🧱 Frontend React / Vite / TypeScript | Landing pages, dashboards, product UI |
+| ⚙️ Backend FastAPI / PHP / Node | APIs, auth flows, integrations |
+| 🤖 AI / Computer Vision experiments | Face recognition, OCR, automation ideas |
+| 🧩 Code review & debugging | Structure, structure, maintainability |
+
+<p align="center">
+  <a href="mailto:dzikrijombang@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
+  <a href="https://www.linkedin.com/in/dzikri-employe-979742335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://3-d-portolio-for-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -736,13 +753,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/dzikripendragon/"><img src="https://img.shields.io/badge/Instagram-@dzikripendragon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/@Tobat_2"><img src="https://img.shields.io/badge/X-@Tobat__2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/Tobat_2"><img src="https://img.shields.io/badge/X-@Tobat__2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.youtube.com/@DzNameless"><img src="https://img.shields.io/badge/YouTube-DzNameless-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.facebook.com/AlexJovanah"><img src="https://img.shields.io/badge/Facebook-Alex%20Jovanah-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://discord.com/channels/@java0232_85204"><img src="https://img.shields.io/badge/Discord-java0232__85204-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://img.shields.io/badge/Discord-java0232__85204-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <a href="https://www.tiktok.com/@fakername01"><img src="https://img.shields.io/badge/TikTok-@fakername01-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
 
@@ -760,6 +777,9 @@
 </p>
 
 ---
+
+<!-- Recent public activity (auto-updated by GitHub Action) -->
+<h3 align="center">📰 Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 
