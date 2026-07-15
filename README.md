@@ -107,8 +107,18 @@
 - [Fun Facts](#fun-facts)
 - [Hobbies](#hobbies)
 - [Favorite Stack Combos](#favorite-combos)
+- [Learning Resources](#learning-resources)
+- [Goals & Mindset](#goals-mindset)
+- [Project Ideas Backlog](#project-ideas)
+- [How I Build](#how-i-build)
+- [What Good Looks Like](#definition-of-done)
+- [FAQ](#faq)
+- [Guestbook](#guestbook)
+- [Quotes I Live By](#quotes)
+- [Currently Listening](#currently-listening)
 - [Support](#support)
 - [Contact & Connect](#contact)
+- [Visitor Note](#visitor-note)
 - [License](#license)
 
 ---
@@ -833,6 +843,177 @@
 
 ---
 
+<h3 id="learning-resources">📚 Learning Resources I Return To</h3>
+
+| Topic | Resources |
+| --- | --- |
+| 🌐 Web fundamentals | MDN Web Docs, freeCodeCamp, JavaScript.info |
+| ⚛️ React / TS | React docs, TypeScript Handbook, Vite docs |
+| 🐍 Python / AI | FastAPI docs, OpenCV tutorials, TensorFlow guides |
+| 🗃️ Databases | PostgreSQL docs, Supabase docs, SQL practice |
+| 🤖 AI coding | Prompt engineering notes, Cursor docs, model changelogs |
+| 🚀 Shipping | GitHub Docs, Vercel docs, Docker getting-started |
+
+<details>
+<summary><b>📝 Notes from the learning desk</b></summary>
+<br>
+
+- Baca docs resmi dulu sebelum tutorial YouTube panjang.
+- Setiap fitur baru = 1 commit yang jelas + 1 catatan singkat.
+- Kalau stuck >30 menit: rubah approach, jangan crush force.
+- Review AI output seperti review PR orang lain.
+
+</details>
+
+---
+
+<h3 id="goals-mindset">🎯 Goals & Mindset</h3>
+
+| Horizon | Focus |
+| --- | --- |
+| **This week** | Ship small improvements to active repos |
+| **This month** | Finish one visible demo for AI CCTV or E-Commerce |
+| **This year** | Stronger full-stack + open-source footprint |
+| **Long-term** | Build tools that feel human, useful, and lasting |
+
+<p>
+  🧠 <b>Mindset default:</b> curiosity first, ego last.<br>
+  🛠️ <b>Working style:</b> iterate in public, document what you learn.<br>
+  🌱 <b>Growth rule:</b> every project must teach at least one new thing.
+</p>
+
+---
+
+<h3 id="project-ideas">💡 Project Ideas Backlog</h3>
+
+| Idea | Why it matters | Stage |
+| --- | --- | --- |
+| Smart notebook for builders | Capture ideas → tasks → commits | 💭 Idea |
+| Local AI coding assistant pack | Offline prompts + workflows for Cursor/Ollama | 🌱 Research |
+| Mini analytics for indie apps | Simple metrics without heavy SaaS | 💭 Idea |
+| CV attendance starter kit | Reusable FastAPI + OpenCV template | 🔄 Drafting |
+| Open-source UI playbook | Patterns for clean React + Tailwind apps | 🌱 Research |
+| IoT + AI home lab dashboard | Long-term dream lab control panel | 🌌 Vision |
+
+---
+
+<h3 id="how-i-build">🏗️ How I Build</h3>
+
+```text
+Idea
+  ↓
+Sketch scope (what / not-what)
+  ↓
+Pick smallest vertical slice
+  ↓
+Prototype with AI assist
+  ↓
+Human review (logic, edge cases, naming)
+  ↓
+Polish UI / error states
+  ↓
+Commit · README · Share
+```
+
+| Principle | Practice |
+| --- | --- |
+| Vertical slices | Prefer end-to-end tiny feature over unfinished layers |
+| Clarity over cleverness | Readable code beats smart tricks |
+| Feedback loops | Demo early, adjust fast |
+| Tool humility | AI helps speed — humans own correctness |
+
+---
+
+<h3 id="definition-of-done">✅ What “Done” Looks Like</h3>
+
+- [x] Feature runs locally without mystery steps
+- [x] Edge cases checked (empty, error, loading)
+- [x] Naming & structure make sense tomorrow
+- [x] Commit message explains *why*
+- [x] README / note updated if needed
+- [ ] Optional: screenshot / demo ready
+- [ ] Optional: open PR or publish preview
+
+---
+
+<h3 id="faq">❓ FAQ</h3>
+
+<details>
+<summary><b>Apa focus utama kamu sekarang?</b></summary>
+<br>
+Full-stack web (React/TypeScript) + AI/computer vision experiments (FastAPI/OpenCV), plus open-source contributions.
+</details>
+
+<details>
+<summary><b>Apakah open to collaborate / hire?</b></summary>
+<br>
+Yes — especially proyek jelas: MVP web, dashboard, AI prototype, refactor, atau learning collaboration.
+</details>
+
+<details>
+<summary><b>Stack favorit untuk product UI?</b></summary>
+<br>
+React + Vite + TypeScript + Tailwind (+ Supabase bila butuh backend cepat).
+</details>
+
+<details>
+<summary><b>Bagaimana kamu pakai AI untuk coding?</b></summary>
+<br>
+Untuk planning, scaffolding, dan review — lalu selalu dicek ulang logikanya secara manual.
+</details>
+
+<details>
+<summary><b>Di mana saya bisa lihat karya?</b></summary>
+<br>
+<a href="https://github.com/DzCodeProgrammer?tab=repositories">GitHub repositories</a> dan <a href="https://3-d-portolio-for-me.vercel.app/">portfolio</a>.
+</details>
+
+<details>
+<summary><b>Bagaimana cara menghubungi?</b></summary>
+<br>
+Email <a href="mailto:dzikrijombang@gmail.com">dzikrijombang@gmail.com</a> atau LinkedIn — detail ada di section Contact.
+</details>
+
+---
+
+<h3 id="guestbook">✍️ Guestbook</h3>
+
+<p>
+  Feel free to leave a hello via
+  <a href="https://github.com/DzCodeProgrammer/DzCodeProgrammer/issues/new?title=Guestbook:%20Hi%20from%20...&body=Name:%0AMessage:%0A">opening a Guestbook issue</a>
+  on this profile repo — say hi, share a tip, or drop a project idea 👋
+</p>
+
+---
+
+<h3 id="quotes">💬 Quotes I Live By</h3>
+
+> *"Build small. Fail fast. Learn always. Create something that feels like yours."*
+
+> *"Code is a conversation between idea and reality."*
+
+> *"Perfection isn’t the goal — the journey defines the creator."*
+
+> *"Share clarity, not just code."*
+
+> *"Every error is a step closer to understanding."*
+
+---
+
+<h3 id="currently-listening">🎧 Currently Listening</h3>
+
+<p>
+  Coding soundtrack favorit: <b>lo-fi / ambient / focus beats</b>.
+  (GitHub README tidak bisa memutar audio Spotify — jadi ini visual/link saja.)
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Lo--fi%20%26%20Ambient-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Lo-fi vibe"/>
+  <img src="https://img.shields.io/badge/Mode-Focus%20Deep%20Work-191414?style=for-the-badge&logo=spotify&logoColor=white" alt="Focus mode"/>
+</p>
+
+---
+
 <h3 id="support">💖 Support</h3>
 
 <p>
@@ -866,6 +1047,20 @@
   <a href="https://www.facebook.com/AlexJovanah"><img src="https://img.shields.io/badge/Facebook-Alex%20Jovanah-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <img src="https://img.shields.io/badge/Discord-java0232__85204-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <a href="https://www.tiktok.com/@fakername01"><img src="https://img.shields.io/badge/TikTok-@fakername01-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</p>
+
+---
+
+<h3 id="visitor-note">👋 Visitor Note</h3>
+
+<p>
+  Thanks for stopping by. If something here inspires you — star a repo, open an issue, or send a message.
+  If you're building too: keep going. The world needs more makers who ship with heart.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting-8000FF?style=for-the-badge" alt="Thanks for visiting"/>
+  <img src="https://komarev.com/ghpvc/?username=DzCodeProgrammer&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
