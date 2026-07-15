@@ -116,6 +116,19 @@
 - [Guestbook](#guestbook)
 - [Quotes I Live By](#quotes)
 - [Currently Listening](#currently-listening)
+- [Workspace Setup](#workspace-setup)
+- [Debugging Playbook](#debugging-playbook)
+- [Commit Style](#commit-style)
+- [PR Etiquette](#pr-etiquette)
+- [Naming Conventions](#naming-conventions)
+- [Security Basics](#security-basics)
+- [Accessibility Mindset](#a11y-mindset)
+- [Performance Habits](#performance-habits)
+- [Content I Want To Create](#content-to-create)
+- [Books & Ideas Shelf](#books-shelf)
+- [Bucket List Tech](#bucket-list-tech)
+- [Arcade Corner](#arcade-corner)
+- [Partner With Me](#partner-with-me)
 - [Support](#support)
 - [Contact & Connect](#contact)
 - [Visitor Note](#visitor-note)
@@ -1011,6 +1024,207 @@ Email <a href="mailto:dzikrijombang@gmail.com">dzikrijombang@gmail.com</a> atau 
   <img src="https://img.shields.io/badge/Vibe-Lo--fi%20%26%20Ambient-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Lo-fi vibe"/>
   <img src="https://img.shields.io/badge/Mode-Focus%20Deep%20Work-191414?style=for-the-badge&logo=spotify&logoColor=white" alt="Focus mode"/>
 </p>
+
+---
+
+<h3 id="workspace-setup">🧰 Workspace Setup</h3>
+
+| Layer | Tools |
+| --- | --- |
+| Editor | Cursor · VS Code |
+| AI copilots | Claude · ChatGPT · GitHub Copilot · Codex |
+| Version control | Git · GitHub · GitHub Actions |
+| Frontend lab | React · Vite · TypeScript · Tailwind |
+| Backend lab | FastAPI · PHP/Laravel · Node |
+| Data | PostgreSQL · MySQL · Supabase |
+| Deploy | Vercel · Netlify · Docker (when needed) |
+| Design | Figma · Canva (quick assets) |
+
+<details>
+<summary><b>🖥️ Default local checklist</b></summary>
+<br>
+
+- [ ] Repo cloned & branch named clearly
+- [ ] `.env.example` understood (never commit secrets)
+- [ ] `npm install` / `pip install` berhasil
+- [ ] App runs on localhost
+- [ ] Linter / format tidak broken total
+- [ ] First commit message singkat & jelas
+
+</details>
+
+---
+
+<h3 id="debugging-playbook">🐞 Debugging Playbook</h3>
+
+```text
+1. Reproduce the bug (reliable steps)
+2. Read the error fully (don't skip stack traces)
+3. Isolate: binary search / comment / feature flag
+4. Check assumptions (types, null, auth, network)
+5. Fix the cause, not only the symptom
+6. Add a tiny guard / test / note so it doesn't return
+```
+
+| Symptom | First check |
+| --- | --- |
+| White screen | Console errors · hydration · import path |
+| 401 / 403 | Token · cookies · CORS · role checks |
+| Slow page | Network waterfall · large images · N+1 queries |
+| AI output weird | Prompt clarity · constraints · missing context |
+
+---
+
+<h3 id="commit-style">🧾 Commit Style</h3>
+
+```text
+feat: add checkout summary card
+fix: handle empty cart state
+docs: update setup steps for Windows
+refactor: extract face detection util
+chore: bump deps for vite project
+```
+
+<p>
+  Prefer commits yang menjelaskan <b>mengapa</b>, bukan hanya <b>apa</b>.
+  Satu commit ≈ satu perubahan yang bisa dipahami sendiri.
+</p>
+
+---
+
+<h3 id="pr-etiquette">📬 PR Etiquette</h3>
+
+- Judul PR jelas: apa yang berubah + kenapa.
+- Deskripsi: context → changes → how to test.
+- Screenshot / GIF jika menyentuh UI.
+- Jangan campur refactor besar + fitur baru tanpa catatan.
+- Review orang lain dengan respect + saran konkret.
+- Merge hanya jika CI hijau / smoke check oke.
+
+---
+
+<h3 id="naming-conventions">🏷️ Naming Conventions</h3>
+
+| Area | Prefer |
+| --- | --- |
+| Components | `PascalCase` (`CheckoutCard.tsx`) |
+| Hooks | `useSomething` |
+| Utils | `camelCase` verbs (`formatCurrency`) |
+| Constants | `UPPER_SNAKE` atau `camelCase` konsisten per project |
+| CSS vars | `--brand-accent`, `--surface-dark` |
+| Commits | `type: summary` |
+
+---
+
+<h3 id="security-basics">🔐 Security Basics I Keep Nearby</h3>
+
+- Never commit `.env`, keys, tokens, private dump files.
+- Validate user input on server, not only on UI.
+- Hash passwords properly; don’t invent crypto.
+- Least privilege for DB / API keys.
+- Keep dependencies updated when advisories appear.
+- Be careful with `dangerouslySetInnerHTML` / raw SQL strings.
+
+---
+
+<h3 id="a11y-mindset">♿ Accessibility Mindset</h3>
+
+- Meaningful `alt` text for images.
+- Buttons are buttons; links are links.
+- Keyboard navigation should reach important controls.
+- Contrast that remains readable in dark/light.
+- Don’t rely on color alone to convey state.
+
+---
+
+<h3 id="performance-habits">⚡ Performance Habits</h3>
+
+- Optimize images before shipping hero assets.
+- Lazy-load heavy components when useful.
+- Avoid unnecessary re-renders in React lists.
+- Measure before micro-optimizing.
+- Prefer fewer network round-trips for critical paths.
+
+---
+
+<h3 id="content-to-create">🎬 Content I Want To Create</h3>
+
+| Format | Topic ideas |
+| --- | --- |
+| Short YouTube | “Build a tiny dashboard in 10 minutes” |
+| Thread / post | Lessons from debugging AI CCTV |
+| Mini article | Vibe coding without shipping bugs |
+| Repo writeup | Case study: E-Commerce stack choices |
+| Loom-style demo | Walkthrough of cosmic-goal-engine |
+
+---
+
+<h3 id="books-shelf">📖 Books & Ideas Shelf</h3>
+
+| Theme | Why I care |
+| --- | --- |
+| Philosophy of making | How craft shapes character |
+| Science stories | Human curiosity behind inventions |
+| Product thinking | Turning ideas into experiences people use |
+| Systems | Seeing software as living ecosystems |
+
+<details>
+<summary><b>🧩 Idea sparks I save</b></summary>
+<br>
+
+- “What if every dashboard taught the user something?”
+- “Can AI labs feel warm, not cold?”
+- “Small tools with soul > giant tools with noise.”
+- “Documentation is a love letter to Future You.”
+
+</details>
+
+---
+
+<h3 id="bucket-list-tech">🌌 Bucket List Tech</h3>
+
+- [ ] Ship a public AI toolkit starter used by others
+- [ ] Speak / share learnings in a community meetup
+- [ ] Release a polished open-source UI kit
+- [ ] Build the first IoT node for the dream AI lab
+- [ ] Mentor one junior builder end-to-end on an MVP
+- [ ] Hit next GitHub achievement tiers with real work
+
+---
+
+<h3 id="arcade-corner">🕹️ Arcade Corner</h3>
+
+<p>
+  Karena developer life butuh play too — ada Space Shooter dari contribution graph di atas.
+  Gaming juga jadi laboratorium: input latency, feedback loops, progression design.
+</p>
+
+| Game lens | Coding parallel |
+| --- | --- |
+| Boss fight | Hard production bug |
+| Save point | Good commits |
+| New ability | New framework skill |
+| Co-op raid | Open-source collaboration |
+
+---
+
+<h3 id="partner-with-me">🤝 Partner With Me</h3>
+
+<p>Kalau kamu:</p>
+
+- punya ide produk tapi butuh builder,
+- butuh tangan ekstra untuk MVP,
+- ingin pairing / review architecture ringan,
+- atau ingin kolaborasi open-source,
+
+<p>…kirim pesan. Ceritakan tujuan, deadline, dan stack yang kamu bayangkan.</p>
+
+| Collaboration mode | Example |
+| --- | --- |
+| 🚀 Build partner | MVP web / AI prototype |
+| 🔍 Review partner | PR review & refactor guidance |
+| 🧪 Experiment partner | Spike research on a risky idea |
+| 📣 Amplify partner | Docs, demo, polish for launch |
 
 ---
 
