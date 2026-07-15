@@ -1297,9 +1297,9 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com//Isasmkti/weixies-nuxt/issues/1) in [Isasmkti/weixies-nuxt](https://github.com//Isasmkti/weixies-nuxt)
+1. ❗️ Opened issue [#1](https://github.com//ach-faisal-rid/core-website-pondok/issues/1) in [ach-faisal-rid/core-website-pondok](https://github.com//ach-faisal-rid/core-website-pondok)
 
-2. 💪 Opened PR [#4](https://github.com/BaseteamProject/ecommerce_web/pull/4) in [BaseteamProject/ecommerce_web](https://github.com/BaseteamProject/ecommerce_web)
+2. ❗️ Opened issue [#1](https://github.com//Isasmkti/weixies-nuxt/issues/1) in [Isasmkti/weixies-nuxt](https://github.com//Isasmkti/weixies-nuxt)
 
 <!--END_SECTION:activity-->
 
