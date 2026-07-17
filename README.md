@@ -1297,9 +1297,9 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com//ach-faisal-rid/core-website-pondok/issues/1) in [ach-faisal-rid/core-website-pondok](https://github.com//ach-faisal-rid/core-website-pondok)
+1. 🗣 Commented on [#1](https://github.com//ach-faisal-rid/core-website-pondok/issues/1) in [ach-faisal-rid/core-website-pondok](https://github.com//ach-faisal-rid/core-website-pondok)
 
-2. ❗️ Opened issue [#1](https://github.com//Isasmkti/weixies-nuxt/issues/1) in [Isasmkti/weixies-nuxt](https://github.com//Isasmkti/weixies-nuxt)
+2. ❗️ Opened issue [#1](https://github.com//ach-faisal-rid/core-website-pondok/issues/1) in [ach-faisal-rid/core-website-pondok](https://github.com//ach-faisal-rid/core-website-pondok)
 
 <!--END_SECTION:activity-->
 
