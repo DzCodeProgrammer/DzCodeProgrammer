@@ -1,44 +1,52 @@
-name: generate-charts
+name: Generate Profile Charts
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # run daily at 01:00 UTC (ubah sesuai kebutuhan)
+    - cron: '30 1 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-main-writers
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: checkout
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          persist-credentials: true
+          fetch-depth: 0
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
         with:
-          node-version: '18'
-
-      - name: Install deps
-        run: |
-          cd .github/profile-scripts || mkdir -p .github/profile-scripts
-          # no external deps required; using built-in node https
+          node-version: '24'
+          package-manager-cache: false
 
       - name: Run chart generator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          QT_API: 'https://quickchart.io/chart' # QuickChart public endpoint
-          GITHUB_USER: 'DzCodeProgrammer'
-        run: |
-          mkdir -p assets
-          node .github/profile-scripts/generate-charts.js
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          QT_API: 'https://quickchart.io/chart'
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node .github/profile-scripts/generate-charts.js
 
-      - name: Commit & push charts
+      - name: Commit and push charts
+        shell: bash
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add assets/*.png || true
-          git diff --quiet && echo "No changes to commit" || (git commit -m "chore: update profile charts [skip ci]" && git push)
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add assets/top-langs.png assets/commits-30days.png \
+            assets/contribution-overview.svg assets/contribution-stats.json
+          if git diff --cached --quiet; then
+            echo "Profile charts are already current."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile charts [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main

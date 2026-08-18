@@ -1,41 +1,49 @@
-name: Update GitHub README Realtime
+name: Update Profile Activity
+
 on:
   schedule:
-    - cron: "*/30 * * * *" # update tiap 30 menit
+    - cron: "20 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-main-writers
+  cancel-in-progress: false
+
 jobs:
-  update-readme:
+  update-activity:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-
-      # 🐍 Generate Snake Animation
-      - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          github_user_name: DzCodeProgrammer
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Update public activity section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node .github/profile-scripts/update-activity.js
 
-      # 🚀 Push hasil snake ke branch output
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 📊 Auto-update GitHub Activity ke README
-      - name: Auto Update README Stats
-        uses: jamesgeorge007/github-activity-readme@v0.3.0
-        with:
-          GH_USERNAME: DzCodeProgrammer
-          COMMIT_MSG: "🔄 Auto-update stats [skip ci]"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push activity
+        shell: bash
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Public activity is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile activity [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main

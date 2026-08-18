@@ -2,20 +2,29 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '15 2 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-main-writers
+  cancel-in-progress: false
+
 jobs:
   update-game:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: czl9707/gh-space-shooter@v1
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: czl9707/gh-space-shooter@96d45ed9a790300da731b9fc49b95d697f528464 # v2
+        with:
+          github-token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
           output-path: 'game.gif'
           strategy: 'random'
+          commit-message: 'chore: refresh space shooter game'
