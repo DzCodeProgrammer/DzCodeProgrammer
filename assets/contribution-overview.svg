@@ -14,19 +14,19 @@
     <text class="title" x="42" y="34">GitHub contribution overview · authenticated profile data</text>
 
       <g transform="translate(42 72)">
-        <text class="value" x="0" y="0">270</text>
+        <text class="value" x="0" y="0">3,844</text>
         <text class="label" x="0" y="30">Total contributions</text>
       </g>
       <g transform="translate(250 72)">
-        <text class="value" x="0" y="0">68</text>
+        <text class="value" x="0" y="0">367</text>
         <text class="label" x="0" y="30">Active days</text>
       </g>
       <g transform="translate(458 72)">
-        <text class="value" x="0" y="0">44</text>
+        <text class="value" x="0" y="0">49</text>
         <text class="label" x="0" y="30">Best day</text>
       </g>
       <g transform="translate(666 72)">
-        <text class="value" x="0" y="0">1 day</text>
+        <text class="value" x="0" y="0">367 days</text>
         <text class="label" x="0" y="30">Current streak</text>
       </g>
   </svg>
