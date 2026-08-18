@@ -1297,9 +1297,9 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com//DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com//DzCodeProgrammer/DzCodeProgrammer)
+1. ❗️ Opened issue [#1](https://github.com//Isasmkti/surat-cinta/issues/1) in [Isasmkti/surat-cinta](https://github.com//Isasmkti/surat-cinta)
 
-2. ❗️ Closed issue [#1](https://github.com//DevriBayu/FinancialPreparedness/issues/1) in [DevriBayu/FinancialPreparedness](https://github.com//DevriBayu/FinancialPreparedness)
+2. ❗️ Closed issue [#1](https://github.com//DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com//DzCodeProgrammer/DzCodeProgrammer)
 
 <!--END_SECTION:activity-->
 
