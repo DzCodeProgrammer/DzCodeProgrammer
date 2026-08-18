@@ -1157,13 +1157,26 @@ chore: bump deps for vite project
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzCodeProgrammer&theme=radical" alt="Profile Details" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="./assets/contribution-overview.svg" alt="GitHub contribution overview" width="100%"/>
+</p>
+
 <details>
 <summary><b>📈 Custom Charts</b></summary>
 <br>
 
+<p align="center">
+  <img src="./assets/commits-30days.png" alt="GitHub contributions in the last 30 days" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/top-langs.png" alt="Primary languages across owned repositories" width="70%"/>
+</p>
+
 <p>
-  Charts di-generate otomatis oleh workflow <code>generate-charts</code> ke folder <code>assets/</code>.
-  Jika gambar belum muncul, jalankan workflow tersebut di Actions terlebih dahulu.
+  Charts diperbarui otomatis setiap hari. Generator menggunakan repository secret
+  <code>PROFILE_TOKEN</code> bila tersedia agar contribution privat yang dianonimkan ikut dihitung;
+  jika tidak, data otomatis kembali ke contribution publik.
 </p>
 
 </details>
@@ -1297,9 +1310,15 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com//Isasmkti/surat-cinta/issues/1) in [Isasmkti/surat-cinta](https://github.com//Isasmkti/surat-cinta)
+1. ❗ opened issue [#1](https://github.com/Isasmkti/surat-cinta/issues/1) in [Isasmkti/surat-cinta](https://github.com/Isasmkti/surat-cinta)
 
-2. ❗️ Closed issue [#1](https://github.com//DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com//DzCodeProgrammer/DzCodeProgrammer)
+2. ❗ closed issue [#1](https://github.com/DzCodeProgrammer/DzCodeProgrammer/issues/1) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com/DzCodeProgrammer/DzCodeProgrammer)
+
+3. ❗ closed issue [#1](https://github.com/DevriBayu/FinancialPreparedness/issues/1) in [DevriBayu/FinancialPreparedness](https://github.com/DevriBayu/FinancialPreparedness)
+
+4. ❗ opened issue [#1](https://github.com/DevriBayu/FinancialPreparedness/issues/1) in [DevriBayu/FinancialPreparedness](https://github.com/DevriBayu/FinancialPreparedness)
+
+5. 🔀 merged pull request [#4](https://github.com/DzCodeProgrammer/DzCodeProgrammer/pull/4) in [DzCodeProgrammer/DzCodeProgrammer](https://github.com/DzCodeProgrammer/DzCodeProgrammer)
 
 <!--END_SECTION:activity-->
 
