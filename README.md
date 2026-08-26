@@ -1310,15 +1310,15 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. 🚀 published release [cpp](https://github.com/DzCodeProgrammer/modern-cpp-starter/releases/tag/cpp) in [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
+1. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
 
-2. ⭐ Starred [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
+2. 🚀 published release [cpp](https://github.com/DzCodeProgrammer/modern-cpp-starter/releases/tag/cpp) in [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
 
-3. 🆕 Created branch `main` in [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
+3. ⭐ Starred [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
 
-4. ❗ opened issue [#1](https://github.com/ach-faisal-rid/cv/issues/1) in [ach-faisal-rid/cv](https://github.com/ach-faisal-rid/cv)
+4. 🆕 Created branch `main` in [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
 
-5. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/DzCodeProgrammer](https://github.com/DzCodeProgrammer/DzCodeProgrammer)
+5. ❗ opened issue [#1](https://github.com/ach-faisal-rid/cv/issues/1) in [ach-faisal-rid/cv](https://github.com/ach-faisal-rid/cv)
 
 <!--END_SECTION:activity-->
 
