@@ -18,7 +18,7 @@
         <text class="label" x="0" y="30">Total contributions</text>
       </g>
       <g transform="translate(250 72)">
-        <text class="value" x="0" y="0">371</text>
+        <text class="value" x="0" y="0">364</text>
         <text class="label" x="0" y="30">Active days</text>
       </g>
       <g transform="translate(458 72)">
@@ -26,7 +26,7 @@
         <text class="label" x="0" y="30">Best day</text>
       </g>
       <g transform="translate(666 72)">
-        <text class="value" x="0" y="0">371 days</text>
+        <text class="value" x="0" y="0">364 days</text>
         <text class="label" x="0" y="30">Current streak</text>
       </g>
   </svg>
