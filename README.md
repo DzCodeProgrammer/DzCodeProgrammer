@@ -1316,9 +1316,9 @@ chore: bump deps for vite project
 
 3. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
 
-4. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
+4. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
 
-5. 🚀 published release [cpp](https://github.com/DzCodeProgrammer/modern-cpp-starter/releases/tag/cpp) in [DzCodeProgrammer/modern-cpp-starter](https://github.com/DzCodeProgrammer/modern-cpp-starter)
+5. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
 
 <!--END_SECTION:activity-->
 
