@@ -1262,15 +1262,15 @@ chore: bump deps for vite project
 
 <!--START_SECTION:activity-->
 
-1. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
+1. ⭐ Starred [DzCodeProgrammer/currency-converter-pro](https://github.com/DzCodeProgrammer/currency-converter-pro)
 
-2. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
+2. ⭐ Starred [DzCodeProgrammer/cosmic-void-py](https://github.com/DzCodeProgrammer/cosmic-void-py)
 
-3. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
+3. ⭐ Starred [DzCodeProgrammer/Casino-Online](https://github.com/DzCodeProgrammer/Casino-Online)
 
-4. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
+4. ⭐ Starred [DzCodeProgrammer/awesome-public-datasets](https://github.com/DzCodeProgrammer/awesome-public-datasets)
 
-5. 💻 Pushed 0 commit(s) to [DzCodeProgrammer/My-Profile](https://github.com/DzCodeProgrammer/My-Profile)
+5. ⭐ Starred [DzCodeProgrammer/ATM-Machine-With-C](https://github.com/DzCodeProgrammer/ATM-Machine-With-C)
 
 <!--END_SECTION:activity-->
 
