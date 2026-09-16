@@ -40,7 +40,6 @@
 
 ## 📑 Table of Contents
 
-- [GitHub Achievements](#github-achievements)
 - [About Me](#about-me)
 - [Now](#now)
 - [Roadmap 2026](#roadmap-2026)
